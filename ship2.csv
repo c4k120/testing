@@ -1,4 +1,4 @@
-Posting Date;Document No.;Item No.;Item ledger entry no.;Sales amount (actual);Customer Code;Sum of Invoiced Quantity;WO;Description;Customer
+Posting Date;Document No.;Item No.;Item ledger entry no.;Sales;Customer Code;Qty;Work Order;Description;Customer
 2025-07-23;SI013630;112091;157028;4794.0;1000106;-204;WO072944;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10 Silver RAL9006;KENDA Deutschland GmbH
 2025-07-23;SI013630;143729;157029;2031.0;1000106;-30;WO072949;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;KENDA Deutschland GmbH
 2025-07-23;SI013630;143729;157030;8124.0;1000106;-120;WO073184;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;KENDA Deutschland GmbH
