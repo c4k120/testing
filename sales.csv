@@ -1,5 +1,5 @@
 Posting Date;No.;Customer;Value;Credit memo;Shipping cost;Total
-2025-07-02 00:00:00;SI013580;KENDA Deutschland GmbH;30487.09;-28595.44;-54770;1172254
+2025-07-02 00:00:00;SI013580;KENDA Deutschland GmbH;30487.09;-28595.44;-56970;1193629
 2025-07-02 00:00:00;SI013581;Bohnenkamp SIA;21993.02;;;
 2025-07-02 00:00:00;SI013583;Maschinenfabrik Bernard Krone GmbH & Co. KG;4885.74;;;
 2025-07-04 00:00:00;SI013592;GRASDORF GmbH;390.4;;;
@@ -42,4 +42,5 @@ Posting Date;No.;Customer;Value;Credit memo;Shipping cost;Total
 2025-07-28 00:00:00;SI013639;Grasdorf Rad  GmbH;25990.49;;;
 2025-07-28 00:00:00;SI013640;Grasdorf Rad  GmbH;6539.38;;;
 2025-07-28 00:00:00;SI013641;GRASDORF GmbH;12018.7;;;
-Grand Total;;;1255618.78;;;
+2025-07-29 00:00:00;SI013645;KENDA Schweiz AG;23575.1;;;
+Grand Total;;;1279193.8800000001;;;
