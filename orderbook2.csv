@@ -17,8 +17,8 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 15-11-2024;B-LINE;WO070296;SO025503;274539;KENDA België NV;WB 3.50Bx10 H2 4/60/100 Ø14.5 C60 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274539_BM.pdf;650;0;0;577;73;594.22
 15-11-2024;C-LINE;WO069143;SO025920;316215;KENDA Polska Sp. z.o.o.;WI GK 4.50Ax6 H2 25x90;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-012_BM.pdf;200;200;106;106;94;929.66
 15-11-2024;C-LINE;WO069156;SO025933;541747;KENDA Polska Sp. z.o.o.;WI EK 4.50Ax6 H 25x90/98;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-054_BM.pdf;300;300;164;164;136;1332.80
-22-11-2024;-;(blank);SO026337;581064;KENDA Europe A/S;GS Lead Nut for SOK Nut DIN   M16 1.50 S355J2G3...;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0861134.pdf;1;0;0;0;1;2.64
-22-11-2024;GALVA-COST;(blank);SO026337;157511;KENDA Europe A/S;DU Headspindle  MD/SOK 340mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34021_BM.pdf;1;0;0;0;1;8.24
+22-11-2024;COMPONENT;(blank);SO026337;581064;KENDA Europe A/S;GS Lead Nut for SOK Nut DIN   M16 1.50 S355J2G3...;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0861134.pdf;1;0;0;0;1;2.64
+22-11-2024;COMPONENT;(blank);SO026337;157511;KENDA Europe A/S;DU Headspindle  MD/SOK 340mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34021_BM.pdf;1;0;0;0;1;8.24
 22-11-2024;GS-LINE;WO070372;SO026337;695532;KENDA Europe A/S;DU AW Spacer Standard 12-160,0 DTS;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R120018_BM.pdf;1;1;1;0;1;58.80
 28-11-2024;G-LINE;WO069074;SO025889;641935;AGROTES D.O.O.;WB 7Jx15 H2 6/161/205 Ø21.5 R16 ET0;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-070-076-STR_BM.pdf;70;70;69;68;2;112.60
 29-11-2024;G-LINE;WO070165;SO026282;681306;KENDA Polska Sp. z.o.o.;WB 13LBx15 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-130-078-STR_BM.pdf;40;40;39;39;1;57.24
@@ -39,10 +39,10 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 22-01-2025;B-LINE;WO069155;SO025932;540221;KENDA Polska Sp. z.o.o.;WI EK 4.50Ix9 H2 35x66/78;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\540221_BM.pdf;300;300;108;108;192;2768.64
 23-01-2025;A-LINE;WO068229;SO025602;275307;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 25,6x66;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275307_BM.pdf;405;405;378;378;27;123.93
 23-01-2025;E-LINE;WO069520;SO026067;613444;KENDA GB Rugeley Ltd;WB 6.00Ix10 H2 4/67/101.6 Ø12.5 R11 ET-3;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P100-060-096-STR_BM.pdf;96;96;96;95;1;15.93
+24-01-2025;COMPONENT;WO074201;SO026358;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;30;0;0;0;30;490.50
 24-01-2025;F-LINE;WO070126;SO026275;158129;KENDA Deutschland GmbH;WB W9x18 H2 6/161/205 Ø21.5 R16 ET-12;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P180-090-077-STR_BM.pdf;100;100;100;98;2;173.76
-24-01-2025;GALVA-COST;WO074201;SO026358;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;30;0;0;0;30;490.50
-31-01-2025;-;(blank);SO026413;580364;Evolution S.r.l.;DU Equalizing Disc  Angled 50°;(blank);;30;0;0;0;30;203.40
 31-01-2025;-;(blank);SO026413;559278;Evolution S.r.l.;DU Clamp ring 30-45;(blank);;2;0;0;0;2;60.00
+31-01-2025;COMPONENT;(blank);SO026413;580364;Evolution S.r.l.;DU Equalizing Disc  Angled 50°;(blank);;30;0;0;0;30;203.40
 31-01-2025;G-LINE;WO069914;SO026201;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;112;112;110;110;2;81.02
 31-01-2025;G-LINE;WO071043;SO026541;675350;KENDA Schweiz AG;WB 6Jx13 H2 6/130/180 Ø16.5 R14 ET109;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P130-060-018-STR_BM.pdf;4;4;0;0;4;200.68
 07-02-2025;B-LINE;WO069911;SO026201;274546;KENDA GB Rugeley Ltd;WB 3.50Bx10 H2 4/67/101.6 Ø11.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274546_BM.pdf;540;540;531;531;9;76.23
@@ -51,34 +51,34 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 07-02-2025;GS-SOK;WO071092;SO026562;108131;KENDA Schweiz AG;DU Wheel SOK2 9.00x15.3/15.3-108,0  DTS   99VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D153-090-018-STR_BM.pdf;2;2;0;0;2;197.60
 28-02-2025;A-LINE;WO069818;SO026191;275321;KENDA België NV;WI GO 2.50Ax8 30,2x71;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275321_BM.pdf;615;615;608;608;7;20.65
 28-02-2025;C-LINE;WO071386;SO026680;111537;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 19,1x89,5;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-128_BM.pdf;50;0;40;40;10;0.00
-28-02-2025;GALVA-COST;WO071407;SO026692;447919;Franz Trinker Räderproduktion GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;20;0;0;0;20;406.90
+28-02-2025;COMPONENT;WO071407;SO026692;447919;Franz Trinker Räderproduktion GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;20;0;0;0;20;406.90
 05-03-2025;B-LINE;WO070521;SO026388;540221;KENDA Polska Sp. z.o.o.;WI EK 4.50Ix9 H2 35x66/78;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\540221_BM.pdf;300;300;180;180;120;1730.40
 07-03-2025;A-LINE;WO069984;SO026228;103662;KENDA GB Rugeley Ltd;WI GK 2.50Ax4 41,3/25x75;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-040-025-012_BM.pdf;10;10;9;9;1;5.50
-07-03-2025;CLAMP ASSEMBLY;WO073117;SO026757;631677;SOMAC;DU Capnut Kit HD+;Firm Planned;;300;0;0;0;300;4608.00
-07-03-2025;GALVA-COST;WO072203;SO026756;494999;Forrim bv;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;100;0;0;0;100;2125.50
-07-03-2025;GALVA-COST;WO073119;SO026757;604367;SOMAC;DU Headspindle  HD/AW 565mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34017_BM.pdf;300;0;0;0;300;5004.00
-07-03-2025;GALVA-COST;WO073120;SO026757;494999;SOMAC;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;981.00
+07-03-2025;COMPONENT;WO072203;SO026756;494999;Forrim bv;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;100;0;0;0;100;2125.50
+07-03-2025;COMPONENT;WO072207;SO026756;408019;Forrim bv;DU Handle bar  HD   536mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;50;0;0;0;50;565.50
+07-03-2025;COMPONENT;WO073117;SO026757;631677;SOMAC;DU Capnut Kit HD+;Firm Planned;;300;0;0;0;300;4608.00
+07-03-2025;COMPONENT;WO073119;SO026757;604367;SOMAC;DU Headspindle  HD/AW 565mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34017_BM.pdf;300;0;0;0;300;5004.00
+07-03-2025;COMPONENT;WO073120;SO026757;494999;SOMAC;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;981.00
 07-03-2025;G-LINE;WO071094;SO026564;381732;KENDA GB Rugeley Ltd;WB 6Jx16 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W160-060-003-STR_BM.pdf;110;110;109;109;1;37.72
-07-03-2025;WELD-SUPPORT-NUT;WO072207;SO026756;408019;Forrim bv;DU Handle bar  HD   536mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;50;0;0;0;50;565.50
-12-03-2025;CLAMP ASSEMBLY;WO072173;SO026968;728216;Bohnenkamp SIA;DU Fixation Set HD+6 M22x2.5x96;Firm Planned;;10;0;0;0;10;6454.80
-12-03-2025;CLAMP ASSEMBLY;WO072174;SO026968;161563;Bohnenkamp SIA;DU Fixation Set MD+6 M18x1.5x95;Finished;;10;0;0;0;10;3904.20
+12-03-2025;COMPONENT;WO072173;SO026968;728216;Bohnenkamp SIA;DU Fixation Set HD+6 M22x2.5x96;Firm Planned;;10;0;0;0;10;6454.80
+12-03-2025;COMPONENT;WO072174;SO026968;161563;Bohnenkamp SIA;DU Fixation Set MD+6 M18x1.5x95;Finished;;10;0;0;0;10;3904.20
 14-03-2025;A-LINE;WO071003;SO026523;493442;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 35,3x63,5;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\493442_BM.pdf;405;405;393;393;12;55.08
-14-03-2025;CLAMP-LINE;WO071725;SO026814;623955;KENDA Schweiz AG;DU Support bridge AW 8@203.2/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;6;0;0;0;6;107.52
+14-03-2025;COMPONENT;WO071725;SO026814;623955;KENDA Schweiz AG;DU Support bridge AW 8@203.2/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;6;0;0;0;6;107.52
 14-03-2025;ROLL LINE;WO072180;SO026970;115481;KENDA Europe A/S;WB 9.00x15.3 H2 5/94/140 Ø18.5 R14 ET-35;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-013-SRL_BM.pdf;2;0;0;0;2;0.00
 14-03-2025;ROLL LINE;WO072181;SO026970;165264;KENDA Europe A/S;WB 9.00x15.3 H2 5/94/140 Ø18.5 R14 ET-35;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-006-SRL_BM.pdf;2;0;0;0;2;0.00
 20-03-2025;F-LINE;WO071107;SO026567;143729;KENDA Deutschland GmbH;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143729_BM.pdf;115;95;95;95;20;1354.00
 21-03-2025;A-LINE;WO072158;SO026961;200750;KENDA Deutschland GmbH;WI GR 2.50Ax8 25x90/86;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\200750_BM.pdf;1;0;0;0;1;6.39
+21-03-2025;COMPONENT;WO071741;SO026827;470481;GRASDORF KOLA POLSKA Sp. z.o.o.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;381.00
 21-03-2025;D-LINE;WO071360;SO026674;275963;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 8/221/275 Ø21.5 R16 ET-12;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-036-STR_BM-1.pdf;40;0;0;0;40;5332.80
-21-03-2025;GALVA-COST;WO071741;SO026827;470481;GRASDORF KOLA POLSKA Sp. z.o.o.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;381.00
 26-03-2025;C-LINE;WO070146;SO026277;316215;BOHNENKAMP SE;WI GK 4.50Ax6 H2 25x90;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-012_BM.pdf;200;200;165;165;35;404.60
 27-03-2025;GS-DUAL;WO071464;SO026714;574523;KENDA Schweiz AG;WB 2.50Ax8 H2 4/70/100 Ø10.5 ET-12.5 RFD;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-061_BM.pdf;50;0;40;40;10;168.40
-28-03-2025;CLAMP ASSEMBLY;WO072469;SO027066;495583;BOHNENKAMP s.r.o.;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;2;0;0;0;2;780.84
 28-03-2025;C-LINE;WO071357;SO026674;274515;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/67/101.6 Ø11.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274515_BM.pdf;702;702;583;583;119;520.03
+28-03-2025;COMPONENT;WO072469;SO027066;495583;BOHNENKAMP s.r.o.;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;2;0;0;0;2;780.84
 28-03-2025;F-LINE;WO071368;SO026674;614564;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221/275 Ø21.5 R16 ET-15;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-055-STR_BM.pdf;144;144;144;142;2;165.64
-31-03-2025;GALVA-COST;WO072087;SO026460;494999;BOHNENKAMP A/S;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;10;0;0;8;2;29.43
+31-03-2025;COMPONENT;WO072087;SO026460;494999;BOHNENKAMP A/S;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;10;0;0;8;2;29.43
 01-04-2025;B-LINE;WO071222;SO026610;441016;KENDA Polska Sp. z.o.o.;WI EK 5.50Ax8 H2 25x85/95;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-048_BM.pdf;800;800;735;735;65;696.15
 01-04-2025;B-LINE;WO070858;SO026495;592831;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 25,4x89,5 TL Silver RAL9006;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\592831_BM.pdf;525;525;525;519;6;63.66
-04-04-2025;GALVA-COST;WO072070;SO026862;494999;BOHNENKAMP A/S;DU Hookspindle  HD/AW 575mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;12;0;0;0;12;176.58
+04-04-2025;COMPONENT;WO072070;SO026862;494999;BOHNENKAMP A/S;DU Hookspindle  HD/AW 575mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;12;0;0;0;12;176.58
 04-04-2025;ROLL LINE;WO071999;SO026733;112084;KENDA Deutschland GmbH;WB 10.50Ix12 H2 10/93/140 Ø15 - ET-50 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112084_BM.pdf;300;0;0;0;300;8334.00
 08-04-2025;C-LINE;WO070444;SO026357;274522;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/85/115 Ø12.5 C90 ET0;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274522_BM.pdf;553;553;553;477;76;406.60
 08-04-2025;D-LINE;WO069913;SO026201;275963;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 8/221/275 Ø21.5 R16 ET-12;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-036-STR_BM-1.pdf;80;0;77;77;3;399.96
@@ -87,7 +87,7 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 16-04-2025;G-LINE;(blank);SO022279;744681;AGROMEHANIKA;WB 13LBx15 H2 8/80/135 Ø17 ET36;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-130-187-STR_BM.pdf;120;0;0;63;57;4068.66
 17-04-2025;B-LINE;WO071223;SO026611;385310;KENDA Polska Sp. z.o.o.;WI EK 7.00Ax8 H2 30x92/102;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-070-033_BM.pdf;200;200;136;136;64;1081.60
 17-04-2025;B-LINE;WO069147;SO025924;441016;KENDA Polska Sp. z.o.o.;WI EK 5.50Ax8 H2 25x85/95;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-048_BM.pdf;500;500;500;498;2;21.42
-18-04-2025;CLAMP ASSEMBLY;WO072162;SO026962;495583;BOHNENKAMP A/S;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;6;0;0;0;6;2342.52
+18-04-2025;COMPONENT;WO072162;SO026962;495583;BOHNENKAMP A/S;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;6;0;0;0;6;2342.52
 18-04-2025;GS-MTM;WO069865;SO026199;613987;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 5/290/335 Ø21.5 R22.4 ET-20;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-123-STR_BM-1.pdf;80;80;76;76;4;555.40
 23-04-2025;MTM-SBM;WO072036;SO026916;672281;KENDA Deutschland GmbH;WI EK 7.00Ix8 H2 30x92/102;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P080-070-066-STR_BM.pdf;200;0;186;186;14;355.32
 24-04-2025;B-LINE;WO070793;SO026480;616711;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Silver RAL9006;Released;;420;420;304;304;116;1817.72
@@ -95,66 +95,66 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 26-04-2025;B-LINE;WO070260;SO026309;294384;KENDA Polska Sp. z.o.o.;WB 5.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-004_BM.pdf;210;210;187;187;23;205.16
 28-04-2025;C-LINE;WO071584;SO026735;274515;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/67/101.6 Ø11.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274515_BM.pdf;702;702;644;644;58;253.46
 28-04-2025;G-LINE;WO071588;SO026735;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;56;56;27;27;29;1174.79
-30-04-2025;GALVA-COST;(blank);SO027165;470504;Evolution S.r.l.;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;60;0;0;50;10;190.80
-02-05-2025;-;(blank);SO027142;494616;KENDA Schweiz AG;DU Ringnut MD;(blank);;10;0;0;0;10;60.00
-02-05-2025;CLAMP ASSEMBLY;WO071856;SO026863;495583;BOHNENKAMP A/S;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;20;0;0;0;20;7808.40
-02-05-2025;CLAMP ASSEMBLY;WO072666;SO027162;495958;BOHNENKAMP s.r.o.;DU Fixation Set HD+4 M18x1.5x95;Firm Planned;;2;0;0;0;2;849.78
-02-05-2025;CLAMP ASSEMBLY;WO072684;SO027165;495552;Evolution S.r.l.;DU Fixation Set MD+3 M16x1.5x95;Firm Planned;;2;0;0;0;2;581.04
-02-05-2025;CLAMP ASSEMBLY;WO072685;SO027165;631660;Evolution S.r.l.;DU Capnut Kit HD+;Firm Planned;;60;0;0;0;60;921.60
-02-05-2025;CLAMP ASSEMBLY;WO072691;SO027165;680965;Evolution S.r.l.;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;1362.00
-02-05-2025;CLAMP ASSEMBLY;WO073606;SO027165;631592;Evolution S.r.l.;DU Capnut Kit MD+;Released;;200;0;0;0;200;2856.00
-02-05-2025;CLAMP-LINE;WO072609;SO027134;669489;KENDA Schweiz AG;DU Support bridge AW 8@275/ 22 C90 H100 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10047_BM.pdf;2;0;0;0;2;54.80
-02-05-2025;CLAMP-LINE;WO072693;SO027165;684826;Evolution S.r.l.;DU Support bridge AW 4@120/ 20 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10051_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072694;SO027165;684833;Evolution S.r.l.;DU Support bridge AW 4@120/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10051_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072695;SO027165;623504;Evolution S.r.l.;DU Support bridge AW 6@205/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;4;0;0;0;4;102.24
-02-05-2025;CLAMP-LINE;WO072696;SO027165;692357;Evolution S.r.l.;DU Support bridge AW 6@325/ 22 C90 H80 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10054_BM.pdf;2;0;0;0;2;75.12
-02-05-2025;CLAMP-LINE;WO072697;SO027165;692364;Evolution S.r.l.;DU Support bridge AW 6@325/ 22 C90 H80 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10054_BM.pdf;2;0;0;0;2;75.12
-02-05-2025;CLAMP-LINE;WO072698;SO027165;626437;Evolution S.r.l.;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;6;0;0;0;6;168.84
-02-05-2025;CLAMP-LINE;WO072699;SO027165;650494;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 16 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10021_BM.pdf;4;0;0;0;4;107.52
-02-05-2025;CLAMP-LINE;WO072700;SO027165;650500;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 16 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10021_BM.pdf;4;0;0;0;4;107.52
-02-05-2025;CLAMP-LINE;WO072701;SO027165;690445;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 19 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10053_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072702;SO027165;690452;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 19 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10053_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072703;SO027165;612409;Evolution S.r.l.;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072704;SO027165;612430;Evolution S.r.l.;DU Support bridge AW 8@275/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;53.76
-02-05-2025;CLAMP-LINE;WO072705;SO027165;651118;Evolution S.r.l.;DU Support bridge AW 8@285/ 22 C90 H50 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10038_BM.pdf;2;0;0;0;2;75.12
-02-05-2025;CLAMP-LINE;WO072706;SO027165;651125;Evolution S.r.l.;DU Support bridge AW 8@285/ 22 C90 H50 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10038_BM.pdf;2;0;0;0;2;75.12
-02-05-2025;CLAMP-LINE;WO073607;SO027165;502687;Evolution S.r.l.;DU Clamp AW 320 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;10;0;0;0;10;482.40
-02-05-2025;CLAMP-LINE;WO073608;SO027165;502724;Evolution S.r.l.;DU Clamp AW 450 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12007_BM.pdf;10;0;0;0;10;517.80
-02-05-2025;GALVA-COST;WO071888;SO026873;470481;BOHNENKAMP A/S;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;12;0;0;0;12;205.74
-02-05-2025;GALVA-COST;WO072686;SO027165;604350;Evolution S.r.l.;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32016_BM.pdf;30;0;0;0;30;588.60
-02-05-2025;GALVA-COST;WO072687;SO027165;470481;Evolution S.r.l.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;50;0;0;0;50;1143.00
-02-05-2025;GALVA-COST;WO072688;SO027165;604374;Evolution S.r.l.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;30;0;0;0;30;685.80
-02-05-2025;GALVA-COST;WO073602;SO027165;494999;Evolution S.r.l.;DU Hookspindle  HD/AW 575mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;981.00
-02-05-2025;GALVA-COST;WO073605;SO027165;447902;Evolution S.r.l.;DU Headspindle  MD/SOK 550mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;180;0;0;0;180;2624.40
-02-05-2025;GALVA-COST;WO073609;SO027165;502731;Evolution S.r.l.;DU Clamp AW 450 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;10;0;0;0;10;517.80
+30-04-2025;COMPONENT;(blank);SO027165;470504;Evolution S.r.l.;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;60;0;0;50;10;190.80
+02-05-2025;COMPONENT;WO071856;SO026863;495583;BOHNENKAMP A/S;DU Fixation Set MD+6 M16x1.5x95;Firm Planned;;20;0;0;0;20;7808.40
+02-05-2025;COMPONENT;WO071888;SO026873;470481;BOHNENKAMP A/S;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;12;0;0;0;12;205.74
+02-05-2025;COMPONENT;WO072609;SO027134;669489;KENDA Schweiz AG;DU Support bridge AW 8@275/ 22 C90 H100 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10047_BM.pdf;2;0;0;0;2;54.80
+02-05-2025;COMPONENT;WO072666;SO027162;495958;BOHNENKAMP s.r.o.;DU Fixation Set HD+4 M18x1.5x95;Firm Planned;;2;0;0;0;2;849.78
+02-05-2025;COMPONENT;WO072684;SO027165;495552;Evolution S.r.l.;DU Fixation Set MD+3 M16x1.5x95;Firm Planned;;2;0;0;0;2;581.04
+02-05-2025;COMPONENT;WO072685;SO027165;631660;Evolution S.r.l.;DU Capnut Kit HD+;Firm Planned;;60;0;0;0;60;921.60
+02-05-2025;COMPONENT;WO072686;SO027165;604350;Evolution S.r.l.;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32016_BM.pdf;30;0;0;0;30;588.60
+02-05-2025;COMPONENT;WO072687;SO027165;470481;Evolution S.r.l.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;50;0;0;0;50;1143.00
+02-05-2025;COMPONENT;WO072688;SO027165;604374;Evolution S.r.l.;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;30;0;0;0;30;685.80
+02-05-2025;COMPONENT;WO072691;SO027165;680965;Evolution S.r.l.;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;1362.00
+02-05-2025;COMPONENT;WO072693;SO027165;684826;Evolution S.r.l.;DU Support bridge AW 4@120/ 20 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10051_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072694;SO027165;684833;Evolution S.r.l.;DU Support bridge AW 4@120/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10051_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072695;SO027165;623504;Evolution S.r.l.;DU Support bridge AW 6@205/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;4;0;0;0;4;102.24
+02-05-2025;COMPONENT;WO072696;SO027165;692357;Evolution S.r.l.;DU Support bridge AW 6@325/ 22 C90 H80 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10054_BM.pdf;2;0;0;0;2;75.12
+02-05-2025;COMPONENT;WO072697;SO027165;692364;Evolution S.r.l.;DU Support bridge AW 6@325/ 22 C90 H80 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10054_BM.pdf;2;0;0;0;2;75.12
+02-05-2025;COMPONENT;WO072698;SO027165;626437;Evolution S.r.l.;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;6;0;0;0;6;168.84
+02-05-2025;COMPONENT;WO072699;SO027165;650494;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 16 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10021_BM.pdf;4;0;0;0;4;107.52
+02-05-2025;COMPONENT;WO072700;SO027165;650500;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 16 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10021_BM.pdf;4;0;0;0;4;107.52
+02-05-2025;COMPONENT;WO072701;SO027165;690445;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 19 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10053_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072702;SO027165;690452;Evolution S.r.l.;DU Support bridge AW 8@203.2/ 19 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10053_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072703;SO027165;612409;Evolution S.r.l.;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072704;SO027165;612430;Evolution S.r.l.;DU Support bridge AW 8@275/ 22 C90 H0 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;53.76
+02-05-2025;COMPONENT;WO072705;SO027165;651118;Evolution S.r.l.;DU Support bridge AW 8@285/ 22 C90 H50 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10038_BM.pdf;2;0;0;0;2;75.12
+02-05-2025;COMPONENT;WO072706;SO027165;651125;Evolution S.r.l.;DU Support bridge AW 8@285/ 22 C90 H50 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10038_BM.pdf;2;0;0;0;2;75.12
+02-05-2025;COMPONENT;WO073599;SO027165;408019;Evolution S.r.l.;DU Handle bar  HD   536mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;208.80
+02-05-2025;COMPONENT;WO073602;SO027165;494999;Evolution S.r.l.;DU Hookspindle  HD/AW 575mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;981.00
+02-05-2025;COMPONENT;WO073605;SO027165;447902;Evolution S.r.l.;DU Headspindle  MD/SOK 550mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;180;0;0;0;180;2624.40
+02-05-2025;COMPONENT;WO073606;SO027165;631592;Evolution S.r.l.;DU Capnut Kit MD+;Released;;200;0;0;0;200;2856.00
+02-05-2025;COMPONENT;WO073607;SO027165;502687;Evolution S.r.l.;DU Clamp AW 320 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;10;0;0;0;10;482.40
+02-05-2025;COMPONENT;WO073608;SO027165;502724;Evolution S.r.l.;DU Clamp AW 450 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12007_BM.pdf;10;0;0;0;10;517.80
+02-05-2025;COMPONENT;WO073609;SO027165;502731;Evolution S.r.l.;DU Clamp AW 450 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;10;0;0;0;10;517.80
+02-05-2025;COMPONENT;(blank);SO027142;494616;KENDA Schweiz AG;DU Ringnut MD;(blank);;10;0;0;0;10;60.00
 02-05-2025;GS-SOK;WO072605;SO027132;714752;KENDA Schweiz AG;DU Wheel SOK3 W8x16/17-160,0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D160-080-013-STR_BM.pdf;2;2;0;0;2;181.60
 02-05-2025;ROLLING-LINE;WO072682;SO027164;560335;Evolution S.r.l.;DU Spacer Emc2 46K-335;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\560335_BM.pdf;2;2;2;0;2;622.80
-02-05-2025;WELD-SUPPORT-NUT;WO073599;SO027165;408019;Evolution S.r.l.;DU Handle bar  HD   536mm;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;208.80
 08-05-2025;B-LINE;WO071203;SO026591;508337;KENDA Polska Sp. z.o.o.;WI EK 4.00Ex9 35x66/78;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-090-040-012_BM.pdf;150;150;141;141;9;136.80
-09-05-2025;CLAMP ASSEMBLY;WO072842;SO027192;582443;KENDA Schweiz AG;DU GSL kit     (see drawing+BOM);Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62Q10001.pdf;50;0;0;0;50;1925.00
-09-05-2025;CLAMP ASSEMBLY;(blank);SO027178;481920;SODIJANTES INDUSTRIE SAS;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;400;0;0;0;400;12240.00
-09-05-2025;CLAMP-LINE;WO072427;SO027051;623474;GRASDORF GmbH;DU Support bridge AW 8@203.2/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;2;0;0;0;2;44.80
-09-05-2025;CLAMP-LINE;(blank);SO027223;502687;Forrim bv;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;4;0;0;0;4;192.96
+09-05-2025;COMPONENT;WO072427;SO027051;623474;GRASDORF GmbH;DU Support bridge AW 8@203.2/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;2;0;0;0;2;44.80
+09-05-2025;COMPONENT;WO072842;SO027192;582443;KENDA Schweiz AG;DU GSL kit     (see drawing+BOM);Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62Q10001.pdf;50;0;0;0;50;1925.00
+09-05-2025;COMPONENT;WO072846;SO027192;654287;KENDA Schweiz AG;DU Headspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34013_BM.pdf;150;0;0;0;150;1146.00
+09-05-2025;COMPONENT;WO072848;SO027192;644707;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25031_BM.pdf;12;0;0;0;12;272.64
+09-05-2025;COMPONENT;WO072845;SO027192;447902;KENDA Schweiz AG;DU Headspindle  MD/SOK 550mm;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;1000;0;1000;0;1000;9720.00
+09-05-2025;COMPONENT;(blank);SO027178;470504;SODIJANTES INDUSTRIE SAS;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;200;0;0;0;200;3816.00
+09-05-2025;COMPONENT;(blank);SO027178;481920;SODIJANTES INDUSTRIE SAS;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;400;0;0;0;400;12240.00
+09-05-2025;COMPONENT;(blank);SO027223;502687;Forrim bv;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;4;0;0;0;4;192.96
 09-05-2025;E-LINE;WO072823;SO027181;280257;KENDA Schweiz AG;WB 5.50Bx8 H2 4/60/100 Ø15 C105 ET22;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W080-055-013-STR_BM.pdf;20;20;0;0;20;858.40
-09-05-2025;GALVA-COST;WO072846;SO027192;654287;KENDA Schweiz AG;DU Headspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34013_BM.pdf;150;0;0;0;150;1146.00
-09-05-2025;GALVA-COST;WO072848;SO027192;644707;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25031_BM.pdf;12;0;0;0;12;272.64
-09-05-2025;GALVA-COST;WO072845;SO027192;447902;KENDA Schweiz AG;DU Headspindle  MD/SOK 550mm;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;1000;0;1000;0;1000;9720.00
-09-05-2025;GALVA-COST;(blank);SO027178;470504;SODIJANTES INDUSTRIE SAS;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;200;0;0;0;200;3816.00
 10-05-2025;ROLL LINE;WO072000;SO026733;112091;KENDA Deutschland GmbH;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10 Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112091_BM.pdf;600;303;229;229;371;8718.50
 12-05-2025;G-LINE;WO071587;SO026735;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;224;224;221;220;4;168.52
 12-05-2025;G-LINE;WO071586;SO026735;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;224;224;224;221;3;126.39
 12-05-2025;GS-LINE;WO073179;SO027269;654324;KENDA Schweiz AG;DU Wheel MD/HD W8x40/30K-300,0   160VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D400-080-005-STR_BM.pdf;4;0;0;2;2;506.40
-16-05-2025;GALVA-COST;WO073054;SO027234;610498;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;0;0;200;2232.00
-16-05-2025;GALVA-COST;WO073055;SO027234;610313;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
-16-05-2025;GALVA-COST;WO073056;SO027234;577272;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G20007_BM.pdf;50;0;0;0;50;622.00
-16-05-2025;GALVA-COST;WO073521;SO027195;644707;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25031_BM.pdf;20;0;0;0;20;454.40
-16-05-2025;GALVA-COST;WO073523;SO027195;610214;KENDA Schweiz AG;DU Headspindle  MD/SOK 320mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34005_BM.pdf;100;0;0;0;100;776.00
+16-05-2025;COMPONENT;WO073054;SO027234;610498;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;0;0;200;2232.00
+16-05-2025;COMPONENT;WO073055;SO027234;610313;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
+16-05-2025;COMPONENT;WO073056;SO027234;577272;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G20007_BM.pdf;50;0;0;0;50;622.00
+16-05-2025;COMPONENT;WO073521;SO027195;644707;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25031_BM.pdf;20;0;0;0;20;454.40
+16-05-2025;COMPONENT;WO073523;SO027195;610214;KENDA Schweiz AG;DU Headspindle  MD/SOK 320mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34005_BM.pdf;100;0;0;0;100;776.00
 16-05-2025;ROLLING-LINE;WO072737;SO027171;672588;Grasdorf Rad  GmbH;DU Spacer Emc2 46-335;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R460072_BM.pdf;10;10;10;0;10;2595.00
 19-05-2025;E-LINE;WO071667;SO026775;139623;KENDA Polska Sp. z.o.o.;WB 10.50Ix12 H2 5/94/140 Ø18.5 R14 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-105-020-STR_BM.pdf;80;80;79;74;6;200.70
 22-05-2025;MTM-SBM;WO072413;SO027048;672281;KENDA Deutschland GmbH;WI EK 7.00Ix8 H2 30x92/102;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P080-070-066-STR_BM.pdf;151;0;0;150;1;26.65
 23-05-2025;A-LINE;WO072126;SO026948;275307;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 25,6x66;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275307_BM.pdf;405;0;0;0;405;1858.95
+23-05-2025;COMPONENT;WO073431;SO027357;610238;KENDA Schweiz AG;DU Ringnut SOK;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25009_BM.pdf;150;0;0;0;150;3054.00
 23-05-2025;D-LINE;WO072479;SO027075;329031;KENDA Polska Sp. z.o.o.;WB AG16.00x22.5 H2 10/281/335 Ø27 R18 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-045-STR_BM.pdf;10;0;0;0;10;1323.20
-23-05-2025;GALVA-COST;WO073431;SO027357;610238;KENDA Schweiz AG;DU Ringnut SOK;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25009_BM.pdf;150;0;0;0;150;3054.00
 23-05-2025;G-LINE;WO069916;SO026201;494708;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 5/94/140 Ø18.5 R14 ET-35;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-087-STR_BM.pdf;112;112;111;111;1;42.13
 23-05-2025;G-LINE;WO071365;SO026674;494708;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 5/94/140 Ø18.5 R14 ET-35;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-087-STR_BM.pdf;112;112;111;85;27;1137.51
 23-05-2025;G-LINE;WO073146;SO027264;519357;KENDA Europe A/S;WB 12LBx15 H2 10/93/140 Ø15 ET-70;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-120-001-STR_BM.pdf;2;0;0;0;2;419.66
@@ -175,31 +175,31 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 11-06-2025;A-LINE;WO072105;SO026941;367545;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-097_BM.pdf;500;500;297;297;203;885.08
 11-06-2025;B-LINE;WO069251;SO025971;294384;KENDA Polska Sp. z.o.o.;WB 5.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-004_BM.pdf;200;200;183;183;17;159.29
 11-06-2025;ROLL LINE;WO071998;SO026568;112084;KENDA Deutschland GmbH;WB 10.50Ix12 H2 10/93/140 Ø15 - ET-50 Silver;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112084_BM.pdf;600;600;599;599;1;27.78
-13-06-2025;-;(blank);SO027189;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
-13-06-2025;-;(blank);SO027235;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;50;0;0;0;50;326.00
-13-06-2025;-;(blank);SO027293;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;400;0;0;0;400;2608.00
 13-06-2025;A-LINE;WO072879;SO027198;542218;KENDA Deutschland GmbH;WI GK 6.00-4 25x179 RFD;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-040-060-003_BM.pdf;152;0;0;0;152;3679.92
 13-06-2025;A-LINE;WO072913;SO027201;275116;KENDA Deutschland GmbH;WI GR 2.50Ax6 20x113/107;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275116_BM.pdf;200;0;0;0;200;1174.00
 13-06-2025;B-LINE;WO072739;SO027173;100869;KENDA Deutschland GmbH;WI EK 5.50Ax8 H2 25x89/100 TL Red (Fendt Terra;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-123_BM.pdf;400;0;0;0;400;4012.00
 13-06-2025;B-LINE;WO072745;SO027173;581798;KENDA Deutschland GmbH;WI EK 5.50Ax8 H2 25x89/100 TL Silver RAL9006 6205;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\581798_BM.pdf;160;0;0;0;160;1572.80
 13-06-2025;C-LINE;WO072749;SO027173;161594;KENDA Deutschland GmbH;WI GK 7.00Ix8 H2 25x64/73 TL Orange RAL2002 6205;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\161594_BM.pdf;500;225;0;0;500;6400.00
 13-06-2025;C-LINE;WO072811;SO027179;274515;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/67/101.6 Ø11.5 C90 ET0;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274515_BM.pdf;702;0;702;0;702;3067.74
+13-06-2025;COMPONENT;WO072837;SO027189;610214;KENDA Schweiz AG;DU Headspindle  MD/SOK 320mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34005_BM.pdf;100;0;0;0;100;776.00
+13-06-2025;COMPONENT;WO072838;SO027189;610498;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;100;0;0;0;100;1116.00
+13-06-2025;COMPONENT;WO072963;SO027209;575667;KENDA Schweiz AG;DU Hookspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32006_BM.pdf;250;0;0;0;250;2310.00
+13-06-2025;COMPONENT;WO073058;SO027235;610498;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;150;0;200;2232.00
+13-06-2025;COMPONENT;WO073059;SO027235;610313;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
+13-06-2025;COMPONENT;WO073060;SO027235;610351;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25004_BM.pdf;50;0;0;0;50;662.00
+13-06-2025;COMPONENT;WO073061;SO027235;577272;KENDA Schweiz AG;DU Capnut SOK+;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G20007_BM.pdf;50;0;50;0;50;622.00
+13-06-2025;COMPONENT;WO073057;SO027235;606538;KENDA Schweiz AG;DU Ringnut SOK;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25008_BM.pdf;100;0;100;0;100;1116.00
+13-06-2025;COMPONENT;(blank);SO027189;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
+13-06-2025;COMPONENT;(blank);SO027209;494999;KENDA Schweiz AG;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;654.00
+13-06-2025;COMPONENT;(blank);SO027209;449241;KENDA Schweiz AG;DU Hookspindle  MD/SOK 415mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32008_BM.pdf;20;0;0;0;20;192.00
+13-06-2025;COMPONENT;(blank);SO027235;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;50;0;0;0;50;326.00
+13-06-2025;COMPONENT;(blank);SO027293;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;400;0;0;0;400;2608.00
 13-06-2025;D-LINE;WO072357;SO027035;719719;KENDA Deutschland GmbH;WB AG24.00x22.5 H2 8/221/275 Ø27 R18 ET-50;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-240-011-STR_BM.pdf;40;0;0;0;40;6089.20
 13-06-2025;D-LINE;WO072480;SO027076;329031;KENDA Polska Sp. z.o.o.;WB AG16.00x22.5 H2 10/281/335 Ø27 R18 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-045-STR_BM.pdf;10;0;0;0;10;1323.20
 13-06-2025;E-LINE;WO073438;SO027361;100630;KENDA GB Rugeley Ltd;WB 5.50Ix8 H2 4/67/101.6 Ø12.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P080-055-033-STR_BM.pdf;50;0;0;0;50;731.50
 13-06-2025;E-LINE;WO073519;SO027408;274218;STIGA S.p.A. spare-parts ;WB 7.00Ix10 H2 4/60/101.6 Ø14.5 C60 ET20;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W100-070-008-STR_BM.pdf;5;0;0;0;5;71.00
 13-06-2025;E-LINE;WO073636;SO027442;274218;STIGA S.p.A. spare-parts ;WB 7.00Ix10 H2 4/60/101.6 Ø14.5 C60 ET20;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W100-070-008-STR_BM.pdf;3;0;0;0;3;42.60
 13-06-2025;F-LINE;WO073451;SO027369;709048;KENDA Deutschland GmbH;WB W14Lx20 H2 6/135.3/170 Ø17 ET-126;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-140-029-STR_BM.pdf;4;0;0;0;4;434.56
-13-06-2025;GALVA-COST;WO072837;SO027189;610214;KENDA Schweiz AG;DU Headspindle  MD/SOK 320mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34005_BM.pdf;100;0;0;0;100;776.00
-13-06-2025;GALVA-COST;WO072838;SO027189;610498;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;100;0;0;0;100;1116.00
-13-06-2025;GALVA-COST;WO072963;SO027209;575667;KENDA Schweiz AG;DU Hookspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32006_BM.pdf;250;0;0;0;250;2310.00
-13-06-2025;GALVA-COST;WO073058;SO027235;610498;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;150;0;200;2232.00
-13-06-2025;GALVA-COST;WO073059;SO027235;610313;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
-13-06-2025;GALVA-COST;WO073060;SO027235;610351;KENDA Schweiz AG;DU Capnut SOK+;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25004_BM.pdf;50;0;0;0;50;662.00
-13-06-2025;GALVA-COST;WO073061;SO027235;577272;KENDA Schweiz AG;DU Capnut SOK+;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G20007_BM.pdf;50;0;50;0;50;622.00
-13-06-2025;GALVA-COST;WO073057;SO027235;606538;KENDA Schweiz AG;DU Ringnut SOK;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25008_BM.pdf;100;0;100;0;100;1116.00
-13-06-2025;GALVA-COST;(blank);SO027209;494999;KENDA Schweiz AG;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;654.00
-13-06-2025;GALVA-COST;(blank);SO027209;449241;KENDA Schweiz AG;DU Hookspindle  MD/SOK 415mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32008_BM.pdf;20;0;0;0;20;192.00
 13-06-2025;MOUNTING A;WO073637;SO027443;390154;STIGA S.p.A. spare-parts ;AB 20x10.00-10 97A4 KENDA K500 TR412;Firm Planned;;7;0;0;0;7;259.84
 13-06-2025;MOUNTING A;WO073638;SO027443;390437;STIGA S.p.A. spare-parts ;AB 23x10.50-12 89A4 KENDA K500 TR412;Firm Planned;;7;0;0;0;7;344.68
 13-06-2025;MTM-SBM;WO072440;SO027057;714547;KENDA Deutschland GmbH;WB W12x28 6/135/170 Ø17 ET-36;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P280-120-026-STR_BM.pdf;6;0;0;0;6;910.32
@@ -223,9 +223,9 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 20-06-2025;MTM-SBM;WO072762;SO027174;714547;KENDA Deutschland GmbH;WB W12x28 6/135/170 Ø17 ET-36;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P280-120-026-STR_BM.pdf;4;0;0;0;4;606.88
 20-06-2025;MTM-SBM;WO072870;SO027194;672281;KENDA Deutschland GmbH;WI EK 7.00Ix8 H2 30x92/102;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P080-070-066-STR_BM.pdf;100;0;0;0;100;2538.00
 20-06-2025;ROLL LINE;WO073040;SO027198;164922;KENDA Deutschland GmbH;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-070-001-SRL_BM.pdf;82;0;0;0;82;0.00
-25-06-2025;-;(blank);SO027357;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;300;0;0;264;36;234.72
 25-06-2025;B-LINE;WO070601;SO026417;739335;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 19,1x89,5 TL Black CP2004;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-012_BM.pdf;630;0;0;276;354;2616.06
 25-06-2025;B-LINE;WO070603;SO026418;471242;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Silver RAL9006 NORMAL;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-013_BM.pdf;630;0;608;608;22;202.18
+25-06-2025;COMPONENT;(blank);SO027357;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;300;0;0;264;36;234.72
 25-06-2025;E-LINE;WO071509;SO026724;165103;KENDA Schweiz AG;WB 7.00Ix12 H2 5/67/112 Ø14 ET10;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-070-298-STR_BM.pdf;50;50;45;45;5;182.45
 25-06-2025;E-LINE;WO071666;SO026774;139623;KENDA Polska Sp. z.o.o.;WB 10.50Ix12 H2 5/94/140 Ø18.5 R14 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-105-020-STR_BM.pdf;60;60;59;59;1;33.45
 25-06-2025;F-LINE;WO072503;SO027099;723310;KENDA Polska Sp. z.o.o.;WB 16.00x17 H2 8/221/275 Ø27 R18 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P170-160-106-STR_BM.pdf;96;96;90;90;6;399.36
@@ -252,7 +252,7 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 27-06-2025;G-LINE;WO072798;SO027179;614052;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø20 R16 ET-45;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-138-STR_BM.pdf;224;224;223;223;1;41.76
 27-06-2025;G-LINE;WO072940;SO027204;108179;KENDA Deutschland GmbH;WB 7Jx16 H2 6/161/205 Ø18.5 ET83;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-070-022-STR_BM.pdf;64;0;0;0;64;3767.68
 27-06-2025;GS-SOK;WO073476;SO027385;118338;KENDA Schweiz AG;DU Wheel SOK2 4.25x12-200,0   162VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D120-043-004-STR_BM.pdf;1;1;0;0;1;90.00
-27-06-2025;GS-SOK;WO073479;SO027386;677095;KENDA Schweiz AG;DU Wheel SOK3 5.50Fx18-200,0   155VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D180-055-019-STR_BM.pdf;2;0;0;0;2;214.40
+27-06-2025;GS-SOK;WO073479;SO027386;677095;KENDA Schweiz AG;DU Wheel SOK3 5.50Fx18-200,0   155VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D180-055-019-STR_BM.pdf;2;2;0;0;2;214.40
 27-06-2025;ROLLING-LINE;WO073356;SO027332;494944;Grasdorf Rad  GmbH;DU Spacer Emc2 42K-335;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R420008_BM.pdf;10;10;10;0;10;2275.00
 27-06-2025;ROLLING-LINE;WO073364;SO027334;696553;Grasdorf Rad  GmbH;DU Spacer Emc2 44K-385 V68;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R440038_BM.pdf;10;0;0;0;10;2640.00
 28-06-2025;B-LINE;WO072539;SO027111;294407;BOHNENKAMP SE;WI EK 7.00Ax8 H2 30x107/127;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-070-005_BM.pdf;100;100;95;95;5;97.45
@@ -302,8 +302,8 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 08-07-2025;D-LINE;WO072030;SO026916;559537;KENDA Deutschland GmbH;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0 RFH;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-067-STR_BM.pdf;50;10;10;10;40;4020.00
 08-07-2025;G-LINE;WO070458;SO026357;494708;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 5/94/140 Ø18.5 R14 ET-35;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-087-STR_BM.pdf;112;112;107;107;5;210.65
 09-07-2025;B-LINE;WO073632;SO027438;471242;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Silver RAL9006 NORMAL;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-013_BM.pdf;525;525;420;420;105;964.95
+09-07-2025;COMPONENT;(blank);SO027208;495224;KENDA Schweiz AG;DU Hookspindle  MD/SOK 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32009_BM.pdf;500;0;0;250;250;2440.00
 09-07-2025;E-LINE;WO072487;SO027083;516455;KENDA Polska Sp. z.o.o.;WB 7.00Ix12 H2 5/94/140 Ø16.5 R14 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-070-187-STR_BM.pdf;160;160;150;150;10;254.90
-09-07-2025;GALVA-COST;(blank);SO027208;495224;KENDA Schweiz AG;DU Hookspindle  MD/SOK 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32009_BM.pdf;500;0;0;250;250;2440.00
 09-07-2025;GS-DUAL;WO073495;SO027401;727547;KENDA Schweiz AG;DU Wheel MD/HD W7x24/20K-170,0   135VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D240-070-007-STR_BM.pdf;2;2;1;1;1;160.00
 10-07-2025;M-LINE;WO073108;SO027116;608891;STIGA S.p.A.;AB 16x7.50-8 70A3 STARCO Turf Grip TR412;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\608891.pdf;2376;0;1332;1620;756;12700.80
 10-07-2025;M-LINE;WO074084;SO027526;625812;STIGA S.p.A.;AI 18x8.50-8 58A4 STARCO Turf Grip TR412;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\625812.pdf;700;0;480;480;220;4664.00
@@ -314,11 +314,11 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 11-07-2025;A-LINE;WO073230;SO027281;493442;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 35,3x63,5;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\493442_BM.pdf;810;810;804;804;6;28.92
 11-07-2025;A-LINE;WO073436;SO027359;542195;KENDA GB Rugeley Ltd;WI EK 2.50Ax8 25x63,5/71,5;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-059_BM.pdf;100;0;0;0;100;867.00
 11-07-2025;B-LINE;WO069235;SO025963;663852;KENDA België NV;WI GK 4.50Ix9 H2 35x68 TL Silver RAL9006 6007 2RS;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\663852_BM.pdf;600;600;600;502;98;1673.84
-11-07-2025;CLAMP ASSEMBLY;(blank);SO027505;481920;Forrim bv;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;100;0;0;0;100;5100.00
 11-07-2025;C-LINE;WO072492;SO027088;541747;KENDA Polska Sp. z.o.o.;WI EK 4.50Ax6 H 25x90/98;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-054_BM.pdf;400;0;0;0;400;3920.00
 11-07-2025;C-LINE;WO072974;SO027214;627397;KENDA Deutschland GmbH;WI GK 2.50Ax8 H2 30x100;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-066_BM.pdf;200;0;0;0;200;2824.00
 11-07-2025;C-LINE;WO073243;SO027281;274522;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/85/115 Ø12.5 C90 ET0;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274522_BM.pdf;553;0;553;0;553;3107.86
 11-07-2025;C-LINE;WO073709;SO027463;616704;KENDA Polska Sp. z.o.o.;WB 5.50Ax8 H2 4/60/100 Ø14.5 C60 ET0 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\616704_BM.pdf;210;210;0;0;210;1461.60
+11-07-2025;COMPONENT;(blank);SO027505;481920;Forrim bv;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;100;0;0;0;100;5100.00
 11-07-2025;D-LINE;WO072814;SO027179;275963;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 8/221/275 Ø21.5 R16 ET-12;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-036-STR_BM-1.pdf;160;0;0;0;160;21331.20
 11-07-2025;D-LINE;WO073415;SO027346;556727;KENDA Deutschland GmbH;WB W10x24 6/161/205 Ø18 ET-32;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P240-100-015-STR_BM.pdf;4;0;0;0;4;1091.96
 11-07-2025;D-LINE;WO073597;SO027432;116259;KENDA Deutschland GmbH;WB AG16.00x22.5 H2 8/221/275 Ø22.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-176-STR_BM.pdf;4;0;0;0;4;983.28
@@ -354,13 +354,12 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 11-07-2025;G-LINE;WO073530;SO027412;702360;KENDA Schweiz AG;WB 8Jx16 H2 6/130/170 Ø19.5 ET65;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-134-STR_BM.pdf;10;0;0;0;10;467.70
 11-07-2025;G-LINE;WO073559;SO027420;105871;KENDA Schweiz AG;WB 5.5Jx14 H2 6/161/205 Ø21.5 R16 ET-15;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P140-055-048-STR_BM.pdf;30;0;0;0;30;1112.40
 11-07-2025;G-LINE;WO072929;SO027203;143750;KENDA Deutschland GmbH;WB 12LBx15 H2 10/93/140 Ø15 - ET-70 Silver;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143750_BM.pdf;500;500;500;491;9;457.29
-11-07-2025;GS-MTM;WO073765;SO027476;495095;KENDA Deutschland GmbH;WB 8.50-20 10/281/335 Ø26 ET150;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-085-001-STR_BM.pdf;16;4;0;0;16;7606.88
+11-07-2025;GS-MTM;WO073765;SO027476;495095;KENDA Deutschland GmbH;WB 8.50-20 10/281/335 Ø26 ET150;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-085-001-STR_BM.pdf;16;12;0;0;16;7606.88
 11-07-2025;GS-SOK;WO073501;SO027405;726946;KENDA Schweiz AG;DU Wheel SOK2 W6x16/15-108,0  DTS   96VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D160-060-002-STR_BM.pdf;60;0;0;0;60;4968.00
 15-07-2025;C-LINE;WO072478;SO027074;316215;KENDA Polska Sp. z.o.o.;WI GK 4.50Ax6 H2 25x90;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-012_BM.pdf;200;200;197;197;3;31.14
 15-07-2025;E-LINE;WO072493;SO027089;640143;KENDA Polska Sp. z.o.o.;WB 6.00Ix10 H2 4/56.5/100 Ø13 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P100-060-101-STR_BM.pdf;200;200;193;193;7;135.52
 15-07-2025;F-LINE;WO072880;SO027198;557885;KENDA Deutschland GmbH;WB 16.00x17 H2 8/221/275 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-065-STR_BM.pdf;150;149;149;149;1;62.61
 17-07-2025;ROLL LINE;WO072943;SO027204;112091;KENDA Deutschland GmbH;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10 Silver RAL9006;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112091_BM.pdf;400;0;0;0;400;9400.00
-18-07-2025;-;(blank);SO027236;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
 18-07-2025;A-LINE;WO073229;SO027281;359687;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 35,3x63,5;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\359687_BM.pdf;100;0;0;0;100;584.00
 18-07-2025;A-LINE;WO073298;SO027303;506364;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\506364_BM.pdf;1000;0;0;0;1000;4860.00
 18-07-2025;A-LINE;WO073299;SO027303;506364;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\506364_BM.pdf;1000;0;0;0;1000;4860.00
@@ -368,12 +367,18 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 18-07-2025;A-LINE;WO073504;SO027407;367545;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-097_BM.pdf;2000;0;0;0;2000;8720.00
 18-07-2025;B-LINE;WO073245;SO027281;365190;KENDA GB Rugeley Ltd;WI GO 5.50Ax8 H2 35,3x76;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-038_BM.pdf;200;200;0;0;200;2566.00
 18-07-2025;B-LINE;WO073708;SO027463;592831;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 25,4x89,5 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\592831_BM.pdf;315;0;0;0;315;3408.30
-18-07-2025;CLAMP ASSEMBLY;WO073064;SO027236;680965;KENDA Schweiz AG;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;908.00
-18-07-2025;CLAMP ASSEMBLY;(blank);SO027236;143552;KENDA Schweiz AG;DU Footbase MD      Standard;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;500;0;0;0;500;2080.00
 18-07-2025;C-LINE;WO070441;SO026357;139968;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\139968_BM.pdf;702;702;681;681;21;102.69
 18-07-2025;C-LINE;WO071576;SO026735;363523;KENDA GB Rugeley Ltd;WI GO 4.50Ax6 H2 35,3x62;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-032_BM.pdf;140;140;123;123;17;104.89
 18-07-2025;C-LINE;WO073241;SO027281;274515;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/67/101.6 Ø11.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274515_BM.pdf;702;0;0;0;702;3194.10
 18-07-2025;C-LINE;WO073418;SO027346;721323;KENDA Deutschland GmbH;WI EK 5.00Ix10 H2 25x90/100;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-100-050-005_BM.pdf;250;0;0;0;250;3250.00
+18-07-2025;COMPONENT;WO072962;SO027208;575667;KENDA Schweiz AG;DU Hookspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32006_BM.pdf;250;0;0;0;250;2310.00
+18-07-2025;COMPONENT;WO073064;SO027236;680965;KENDA Schweiz AG;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;908.00
+18-07-2025;COMPONENT;WO073729;SO027471;596464;KENDA Schweiz AG;DU Driving lug   AW SOK;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10089_BM.pdf;50;0;0;0;50;28.00
+18-07-2025;COMPONENT;(blank);SO027236;610313;KENDA Schweiz AG;DU Capnut SOK+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
+18-07-2025;COMPONENT;(blank);SO027236;143552;KENDA Schweiz AG;DU Footbase MD      Standard;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;500;0;0;0;500;2080.00
+18-07-2025;COMPONENT;(blank);SO027236;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
+18-07-2025;COMPONENT;(blank);SO027471;654287;KENDA Schweiz AG;DU Headspindle  MD/SOK 270mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34013_BM.pdf;50;0;0;0;50;382.00
+18-07-2025;COMPONENT;(blank);SO027471;634456;KENDA Schweiz AG;DU Hookspindle  MD/SOK 405mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32010_BM.pdf;100;0;0;0;100;956.00
 18-07-2025;D-LINE;WO072945;SO027204;141275;KENDA Deutschland GmbH;WB AG16.00x22.5 H2 8/221/275 Ø27 R18 ET-50 RFH;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-172-STR_BM.pdf;8;0;0;0;8;996.08
 18-07-2025;D-LINE;WO073182;SO027272;141282;KENDA Deutschland GmbH;WB AG16.00x22.5 H2 8/221/275 Ø27 R18 ET0 RFH;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-173-STR_BM.pdf;20;0;0;0;20;2676.60
 18-07-2025;D-LINE;WO073210;SO027274;719719;KENDA Deutschland GmbH;WB AG24.00x22.5 H2 8/221/275 Ø27 R18 ET-50;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-240-011-STR_BM.pdf;40;0;0;0;40;6332.80
@@ -410,15 +415,11 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 18-07-2025;F-LINE;WO073512;SO027407;461809;KENDA Deutschland GmbH;WB 16.00x17 H2 8/221/275 Ø27 R18 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-045-STR_BM.pdf;24;0;0;0;24;1943.04
 18-07-2025;F-LINE;WO073535;SO027413;626369;KENDA Schweiz AG;WB W11x20 H2 8/221/275 Ø27 R18 ET100;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-110-058-STR_BM.pdf;10;0;0;0;10;881.50
 18-07-2025;F-LINE;WO073575;SO027429;535340;KENDA Deutschland GmbH;WB 13.00x17 H2 6/161/205 Ø21.5 R16 ET100;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-130-076-STR_BM.pdf;15;0;0;0;15;1262.40
-18-07-2025;GALVA-COST;WO072962;SO027208;575667;KENDA Schweiz AG;DU Hookspindle  MD/SOK 270mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32006_BM.pdf;250;0;0;0;250;2310.00
-18-07-2025;GALVA-COST;(blank);SO027236;610313;KENDA Schweiz AG;DU Capnut SOK+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25001_BM.pdf;50;0;0;0;50;184.00
-18-07-2025;GALVA-COST;(blank);SO027471;654287;KENDA Schweiz AG;DU Headspindle  MD/SOK 270mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34013_BM.pdf;50;0;0;0;50;382.00
-18-07-2025;GALVA-COST;(blank);SO027471;634456;KENDA Schweiz AG;DU Hookspindle  MD/SOK 405mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32010_BM.pdf;100;0;0;0;100;956.00
 18-07-2025;G-LINE;WO071503;SO026722;167008;KENDA Schweiz AG;WB 13LBx15 H2 5/94/140 Ø18.5 R14 ET49;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-130-037-STR_BM.pdf;50;0;0;0;50;2505.00
 18-07-2025;G-LINE;WO073185;SO027272;143750;KENDA Deutschland GmbH;WB 12LBx15 H2 10/93/140 Ø15 - ET-70 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143750_BM.pdf;210;210;0;0;210;10670.10
 18-07-2025;G-LINE;WO073209;SO027274;690919;KENDA Deutschland GmbH;WB 8.25x16.5 H2 6/161/205 Ø21.5 R16 ET-40;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P165-083-046-STR_BM.pdf;20;0;0;0;20;1093.20
 18-07-2025;G-LINE;WO073211;SO027274;729916;KENDA Deutschland GmbH;WB 6Jx15 H2 6/161/205 Ø21.5 R16 ET70;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-069-STR_BM.pdf;100;0;0;0;100;4003.00
-18-07-2025;G-LINE;WO073235;SO027281;614052;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø20 R16 ET-45;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-138-STR_BM.pdf;224;20;0;0;224;9354.24
+18-07-2025;G-LINE;WO073235;SO027281;614052;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø20 R16 ET-45;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-138-STR_BM.pdf;224;161;0;0;224;9354.24
 18-07-2025;G-LINE;WO073419;SO027346;736358;KENDA Deutschland GmbH;WB 8LBx15 H2 6/110/150 Ø13 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-080-059-STR_BM.pdf;38;0;0;0;38;3002.76
 18-07-2025;G-LINE;WO073503;SO027407;362359;KENDA Deutschland GmbH;WB 13LBx15 H2 6/161/205 Ø21.5 R16.0 ET-37;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-130-091-STR_BM.pdf;50;0;0;0;50;2895.50
 18-07-2025;G-LINE;WO073531;SO027413;142203;KENDA Schweiz AG;WB 8Jx16 H2 6/130/170 Ø19.5 ET85;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-158-STR_BM.pdf;10;0;0;0;10;996.20
@@ -430,7 +431,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 18-07-2025;GS-MTM;WO073783;SO027483;119403;KENDA Schweiz AG;WB DW20Bx28 8/221/275 Ø19.5 ET-140;Released;;2;0;0;0;2;578.40
 18-07-2025;GS-MTM;WO073784;SO027483;119397;KENDA Schweiz AG;WB DWW25Bx38 8/221/275 Ø21.5 ET-93;Released;;2;0;0;0;2;1221.60
 18-07-2025;GS-SOK;WO073810;SO027490;142630;KENDA Schweiz AG;DU Wheel SOK3 W8x16-270,0   195VSM;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\D160-080-015-STR_BM.pdf;24;0;0;0;24;2544.00
-18-07-2025;HT-CUTTING;WO073729;SO027471;596464;KENDA Schweiz AG;DU Driving lug   AW SOK;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10089_BM.pdf;50;0;0;0;50;28.00
 18-07-2025;ROLL LINE;WO072942;SO027204;112084;KENDA Deutschland GmbH;WB 10.50Ix12 H2 10/93/140 Ø15 - ET-50 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112084_BM.pdf;600;0;0;0;600;16668.00
 18-07-2025;ROLLING-LINE;WO073909;SO027524;524733;Forrim bv;DU AW Spacer Standard 12-130,0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R120003_BM.pdf;2;0;0;0;2;94.08
 18-07-2025;ROLLING-LINE;WO073910;SO027524;607504;Forrim bv;DU AW Spacer Standard 28K-300,0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R280019_BM.pdf;2;0;0;0;2;366.82
@@ -451,7 +451,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 23-07-2025;E-LINE;WO072756;SO027174;143941;KENDA Deutschland GmbH;WB 10.50Ix12 H2 5/79.5/114.3 Ø12 C75 ET-25 Orange;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143941_BM.pdf;100;78;70;70;30;1242.30
 24-07-2025;B-LINE;WO072531;SO027111;581798;BOHNENKAMP SE;WI EK 5.50Ax8 H2 25x89/100 TL Silver RAL9006 6205;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\581798_BM.pdf;600;600;390;390;210;1990.80
 24-07-2025;C-LINE;WO069475;SO026046;473994;BOHNENKAMP SE;WB 2.50Ax8 H2 4/63/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-043_BM.pdf;1000;1000;1883;883;117;630.63
-25-07-2025;-;(blank);SO027505;447858;Forrim bv;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;20;0;0;0;20;138.00
 25-07-2025;-;(blank);SO027600;19020;KENDA Polska Sp. z.o.o.;POWDER CP1088;(blank);;60;0;0;0;60;516.00
 25-07-2025;-;(blank);SO027600;19020;KENDA Polska Sp. z.o.o.;POWDER CP2004;(blank);;60;0;0;0;60;348.00
 25-07-2025;A-LINE;WO073138;SO027262;275321;KENDA België NV;WI GO 2.50Ax8 30,2x71;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275321_BM.pdf;405;0;0;0;405;1255.50
@@ -460,33 +459,35 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 25-07-2025;B-LINE;WO073705;SO027463;471198;KENDA Polska Sp. z.o.o.;WI GG 4.375Ax8 H2 20,1x89,5/81,5 TL Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-044-002_BM.pdf;600;600;570;570;30;216.00
 25-07-2025;B-LINE;WO073725;SO027469;739335;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 19,1x89,5 TL Black CP2004;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-012_BM.pdf;525;525;0;0;525;3879.75
 25-07-2025;B-LINE;WO074256;SO027603;739328;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Black CP2004 6204 2RS;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-013_BM.pdf;525;525;525;90;435;3997.65
-25-07-2025;CLAMP ASSEMBLY;WO073864;SO027505;631660;Forrim bv;DU Capnut Kit HD+;Firm Planned;;200;0;0;0;200;5120.00
-25-07-2025;CLAMP ASSEMBLY;WO073866;SO027505;680965;Forrim bv;DU Ringnut Kit MD;Firm Planned;;30;0;0;0;30;681.00
-25-07-2025;CLAMP ASSEMBLY;WO073868;SO027505;681221;Forrim bv;DU Ringnut Kit HD;Finished;;100;0;100;0;100;2050.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;631677;Forrim bv;DU Capnut Kit HD+;(blank);;30;0;0;0;30;768.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;631592;Forrim bv;DU Capnut Kit MD+;(blank);;200;0;0;0;200;4760.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;143552;Forrim bv;DU Footbase MD      Standard;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;120;0;0;0;120;1248.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;447872;Forrim bv;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;150;0;0;0;150;5385.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;631448;Forrim bv;DU Footbase HD      Standard;(blank);;50;0;0;0;50;650.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027505;680972;Forrim bv;DU Ringnut Kit MD;(blank);;20;0;0;0;20;454.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027587;631677;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;200;0;0;40;160;2048.00
-25-07-2025;CLAMP ASSEMBLY;(blank);SO027050;481920;GRASDORF GmbH;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;500;0;0;479;21;535.50
-25-07-2025;CLAMP-LINE;WO073867;SO027505;568928;Forrim bv;DU Clamp SOK 20 mm block;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\568928_BM.pdf;15;0;0;0;15;391.50
-25-07-2025;CLAMP-LINE;(blank);SO027505;481913;Forrim bv;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;50;0;0;0;50;1145.00
+25-07-2025;COMPONENT;WO073345;SO027327;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;60;0;0;12;48;751.20
+25-07-2025;COMPONENT;WO073863;SO027505;470481;Forrim bv;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;50;0;0;0;50;1905.00
+25-07-2025;COMPONENT;WO073864;SO027505;631660;Forrim bv;DU Capnut Kit HD+;Firm Planned;;200;0;0;0;200;5120.00
+25-07-2025;COMPONENT;WO073865;SO027505;447919;Forrim bv;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;75;0;0;0;75;2347.50
+25-07-2025;COMPONENT;WO073866;SO027505;680965;Forrim bv;DU Ringnut Kit MD;Firm Planned;;30;0;0;0;30;681.00
+25-07-2025;COMPONENT;WO073867;SO027505;568928;Forrim bv;DU Clamp SOK 20 mm block;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\568928_BM.pdf;15;0;0;0;15;391.50
+25-07-2025;COMPONENT;WO073868;SO027505;681221;Forrim bv;DU Ringnut Kit HD;Finished;;100;0;100;0;100;2050.00
+25-07-2025;COMPONENT;(blank);SO026898;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;300;0;0;191;109;1733.10
+25-07-2025;COMPONENT;(blank);SO027505;447902;Forrim bv;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;150;0;0;0;150;3645.00
+25-07-2025;COMPONENT;(blank);SO027505;494999;Forrim bv;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;150;0;0;0;150;4905.00
+25-07-2025;COMPONENT;(blank);SO027505;631677;Forrim bv;DU Capnut Kit HD+;(blank);;30;0;0;0;30;768.00
+25-07-2025;COMPONENT;(blank);SO027505;408019;Forrim bv;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;30;0;0;0;30;522.00
+25-07-2025;COMPONENT;(blank);SO027505;631592;Forrim bv;DU Capnut Kit MD+;(blank);;200;0;0;0;200;4760.00
+25-07-2025;COMPONENT;(blank);SO027505;143552;Forrim bv;DU Footbase MD      Standard;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;120;0;0;0;120;1248.00
+25-07-2025;COMPONENT;(blank);SO027505;470504;Forrim bv;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;30;0;0;0;30;954.00
+25-07-2025;COMPONENT;(blank);SO027505;495224;Forrim bv;DU Hookspindle  MD/SOK 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32009_BM.pdf;50;0;0;0;50;1220.00
+25-07-2025;COMPONENT;(blank);SO027505;408026;Forrim bv;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;20;0;0;0;20;244.00
+25-07-2025;COMPONENT;(blank);SO027505;422398;Forrim bv;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;50;0;0;0;50;1395.00
+25-07-2025;COMPONENT;(blank);SO027505;447858;Forrim bv;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;20;0;0;0;20;138.00
+25-07-2025;COMPONENT;(blank);SO027505;447872;Forrim bv;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;150;0;0;0;150;5385.00
+25-07-2025;COMPONENT;(blank);SO027505;481913;Forrim bv;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;50;0;0;0;50;1145.00
+25-07-2025;COMPONENT;(blank);SO027505;631448;Forrim bv;DU Footbase HD      Standard;(blank);;50;0;0;0;50;650.00
+25-07-2025;COMPONENT;(blank);SO027505;680972;Forrim bv;DU Ringnut Kit MD;(blank);;20;0;0;0;20;454.00
+25-07-2025;COMPONENT;(blank);SO027587;631677;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;200;0;0;40;160;2048.00
+25-07-2025;COMPONENT;(blank);SO027050;481920;GRASDORF GmbH;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;500;0;0;479;21;535.50
 25-07-2025;E-LINE;WO073777;SO027478;277035;KENDA België NV;WB 7.00Ix12 H2 5/67/112 Ø16 R12 ET10;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-070-028-STR_BM.pdf;50;0;0;0;50;1087.00
 25-07-2025;F-LINE;WO073136;SO027262;294230;KENDA België NV;WB 6.75x17.5 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W175-068-002-STR_BM.pdf;100;0;0;0;100;5719.00
 25-07-2025;F-LINE;WO073253;SO027281;614564;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221/275 Ø21.5 R16 ET-15;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-055-STR_BM.pdf;80;0;0;0;80;6890.40
 25-07-2025;F-LINE;WO073574;SO027429;158129;KENDA Deutschland GmbH;WB W9x18 H2 6/161/205 Ø21.5 R16 ET-12;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P180-090-077-STR_BM.pdf;100;0;0;0;100;9036.00
-25-07-2025;GALVA-COST;WO073345;SO027327;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;60;0;0;12;48;751.20
-25-07-2025;GALVA-COST;WO073863;SO027505;470481;Forrim bv;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;50;0;0;0;50;1905.00
-25-07-2025;GALVA-COST;WO073865;SO027505;447919;Forrim bv;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;75;0;0;0;75;2347.50
-25-07-2025;GALVA-COST;(blank);SO026898;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;300;0;0;191;109;1733.10
-25-07-2025;GALVA-COST;(blank);SO027505;447902;Forrim bv;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;150;0;0;0;150;3645.00
-25-07-2025;GALVA-COST;(blank);SO027505;494999;Forrim bv;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;150;0;0;0;150;4905.00
-25-07-2025;GALVA-COST;(blank);SO027505;470504;Forrim bv;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;30;0;0;0;30;954.00
-25-07-2025;GALVA-COST;(blank);SO027505;495224;Forrim bv;DU Hookspindle  MD/SOK 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32009_BM.pdf;50;0;0;0;50;1220.00
-25-07-2025;GALVA-COST;(blank);SO027505;408026;Forrim bv;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;20;0;0;0;20;244.00
-25-07-2025;GALVA-COST;(blank);SO027505;422398;Forrim bv;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;50;0;0;0;50;1395.00
 25-07-2025;G-LINE;WO072799;SO027179;614052;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø20 R16 ET-45;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-138-STR_BM.pdf;168;168;167;167;1;41.76
 25-07-2025;G-LINE;WO073248;SO027281;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;336;336;332;332;4;168.52
 25-07-2025;G-LINE;WO073249;SO027281;429038;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET20;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W153-090-064-STR_BM.pdf;336;0;0;0;336;14155.68
@@ -510,7 +511,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 25-07-2025;ROLL LINE;WO073595;SO027432;112084;KENDA Deutschland GmbH;WB 10.50Ix12 H2 10/93/140 Ø15 - ET-50 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112084_BM.pdf;650;0;0;0;650;18057.00
 25-07-2025;ROLL LINE;WO073596;SO027432;112091;KENDA Deutschland GmbH;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10 Silver RAL9006;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\112091_BM.pdf;600;0;0;0;600;14100.00
 25-07-2025;ROLL LINE;WO074039;SO027555;118789;KENDA Deutschland GmbH;WB 7.00Ix12 H2 10/93/140 Ø16.5 ET20;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-070-004-SRL_BM.pdf;4;0;0;0;4;114.44
-25-07-2025;WELD-SUPPORT-NUT;(blank);SO027505;408019;Forrim bv;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;30;0;0;0;30;522.00
 26-07-2025;B-LINE;WO072744;SO027173;509556;KENDA Deutschland GmbH;WI EK 7.00Ax8 H2 30x92/102;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-070-047_BM.pdf;300;300;295;295;5;74.10
 26-07-2025;E-LINE;WO073190;SO027272;143880;KENDA Deutschland GmbH;WB 7.00Ix12 H2 10/93/140 Ø16.5 ET20 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143880_BM.pdf;130;130;127;127;3;98.58
 26-07-2025;F-LINE;WO072920;SO027202;149660;KENDA Deutschland GmbH;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-039-STR_BM.pdf;20;20;16;16;4;299.52
@@ -544,26 +544,26 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 31-07-2025;C-LINE;WO073012;SO027113;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;588;588;588;0;588;0.00
 31-07-2025;C-LINE;WO072565;SO027115;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;588;588;588;0;588;0.00
 31-07-2025;C-LINE;WO072567;SO027117;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;924;924;924;0;924;0.00
+31-07-2025;COMPONENT;WO071972;SO026898;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;30;0;0;28;2;38.10
+31-07-2025;COMPONENT;WO073959;SO027538;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;30;0;0;10;20;381.00
+31-07-2025;COMPONENT;(blank);SO027424;634456;KENDA Schweiz AG;DU Hookspindle  MD/SOK 405mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32010_BM.pdf;200;0;0;50;150;1434.00
 31-07-2025;D-LINE;WO073247;SO027281;275963;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 8/221/275 Ø21.5 R16 ET-12;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-036-STR_BM-1.pdf;80;80;77;77;3;415.95
 31-07-2025;E-LINE;WO072760;SO027174;143774;KENDA Deutschland GmbH;WB 8.50Ix12 H2 6/90/120 Ø14 ET-18 Orange (CP 1031);Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-085-142-STR_BM.pdf;10;10;6;6;4;258.00
 31-07-2025;E-LINE;WO072939;SO027204;105109;KENDA Deutschland GmbH;WB 8.50Ix12 H2 5/80/115 Ø18.5 R14 ET-95;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-085-073-STR_BM.pdf;60;60;54;54;6;171.60
 31-07-2025;E-LINE;WO073330;SO027320;144276;BOHNENKAMP A/S;WB 10.50Ix12 H2 4/60/100 Ø15 C60 ET-20 RFH;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-105-289-STR_BM.pdf;300;300;289;289;11;706.20
 31-07-2025;F-LINE;WO072133;SO026948;614014;KENDA GB Rugeley Ltd;WB W13x20 H2 5/290/335 Ø21.5 R22.4 ET10;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-054-STR_BM.pdf;240;240;240;236;4;349.44
 31-07-2025;F-LINE;WO072925;SO027202;162065;KENDA Deutschland GmbH;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0 VG3 Yellow;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\162065_BM.pdf;100;100;100;89;11;969.32
-31-07-2025;F-LINE;WO072949;SO027204;143729;KENDA Deutschland GmbH;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143729_BM.pdf;300;295;234;234;66;4468.20
+31-07-2025;F-LINE;WO072949;SO027204;143729;KENDA Deutschland GmbH;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143729_BM.pdf;300;300;234;234;66;4468.20
 31-07-2025;F-LINE;WO073184;SO027272;143729;KENDA Deutschland GmbH;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143729_BM.pdf;260;260;210;210;50;3385.00
 31-07-2025;F-LINE;WO073251;SO027281;614564;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221/275 Ø21.5 R16 ET-15;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-055-STR_BM.pdf;240;240;240;196;44;3789.72
 31-07-2025;F-LINE;WO073822;SO027492;143842;KENDA Deutschland GmbH;WB 13.00x17 H2 6/161/205 Ø21.5 R16 ET0 Orange;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143842_BM.pdf;400;400;254;284;116;5941.52
 31-07-2025;F-LINE;WO068046;SO025580;143729;KENDA Deutschland GmbH;WB 13.00x17 H2 10/93/140 Ø15 ET-39 Silver RAL9006;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143729_BM.pdf;405;405;405;393;12;812.40
-31-07-2025;GALVA-COST;WO071972;SO026898;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;30;0;0;28;2;38.10
-31-07-2025;GALVA-COST;WO073959;SO027538;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;30;0;0;10;20;381.00
-31-07-2025;GALVA-COST;(blank);SO027424;634456;KENDA Schweiz AG;DU Hookspindle  MD/SOK 405mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32010_BM.pdf;200;0;0;50;150;1434.00
 31-07-2025;G-LINE;WO072854;SO027193;729916;KENDA Deutschland GmbH;WB 6Jx15 H2 6/161/205 Ø21.5 R16 ET70;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-069-STR_BM.pdf;120;120;119;119;1;40.03
 31-07-2025;G-LINE;WO072895;SO027199;469768;KENDA Deutschland GmbH;WB 11LBx16 H2 6/161/205 Ø21.5 R16 ET-50;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W160-110-023-STR_BM.pdf;100;60;54;54;46;2200.64
 31-07-2025;G-LINE;WO073189;SO027272;143873;KENDA Deutschland GmbH;WB 13LBx15 H2 6/161/205 Ø21.5 R16 ET0 VG2 Silver;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\143873_BM.pdf;300;300;290;296;4;198.44
 31-07-2025;G-LINE;WO073234;SO027281;614052;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø20 R16 ET-45;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-138-STR_BM.pdf;224;224;210;154;70;2923.20
 31-07-2025;MOUNTING A;WO073496;SO027402;608884;STIGA S.p.A.;AI 13x5.00-6 37A4 KENDA K383 TR412;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\608884.pdf;300;0;158;158;142;2033.44
-08-08-2025;F-LINE;WO072014;SO026912;357850;Maschinenfabrik Bernard Krone GmbH & Co. KG;WB 13.00x17 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-130-036-STR_BM.pdf;660;147;0;0;660;28380.00
+08-08-2025;F-LINE;WO072014;SO026912;357850;Maschinenfabrik Bernard Krone GmbH & Co. KG;WB 13.00x17 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-130-036-STR_BM.pdf;660;295;0;0;660;28380.00
 22-08-2025;A-LINE;WO073301;SO027303;506364;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\506364_BM.pdf;1000;0;0;0;1000;4860.00
 22-08-2025;A-LINE;WO073302;SO027303;506364;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\506364_BM.pdf;1000;0;0;0;1000;4860.00
 22-08-2025;A-LINE;WO073505;SO027407;367545;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-097_BM.pdf;2010;0;0;0;2010;8763.60
@@ -655,11 +655,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 27-08-2025;M-LINE;WO074622;SO027694;625812;STIGA S.p.A.;AI 18x8.50-8 58A4 STARCO Turf Grip TR412;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\625812.pdf;180;0;0;0;180;3816.00
 27-08-2025;M-LINE;WO074623;SO027694;625805;STIGA S.p.A.;AI 15x6.00-6 46A4 STARCO Turf Grip TR412;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\625805.pdf;210;0;0;0;210;3087.00
 27-08-2025;MOUNTING A;WO074620;SO027694;608884;STIGA S.p.A.;AI 13x5.00-6 37A4 KENDA K383 TR412;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\608884.pdf;300;0;0;0;300;4296.00
-29-08-2025;-;(blank);SO027237;580364;KENDA Schweiz AG;DU Equalizing Disc  Angled 50°;(blank);;50;0;0;0;50;226.00
-29-08-2025;-;(blank);SO027237;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
-29-08-2025;-;(blank);SO027237;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;50;0;0;0;50;326.00
-29-08-2025;-;(blank);SO027237;494388;KENDA Schweiz AG;Flat Washer Steel 17,0x32,0x5,00 M16 Zinc Plated;(blank);;500;0;0;0;500;120.00
-29-08-2025;-;(blank);SO027237;494449;KENDA Schweiz AG;Hex Nut DIN   M16 1.50 Steel 10.9 Zinc Plated &...;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\494449_BM.pdf;500;0;0;0;500;200.00
 29-08-2025;A-LINE;WO073145;SO027263;275321;KENDA België NV;WI GO 2.50Ax8 30,2x71;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275321_BM.pdf;810;0;0;0;810;2511.00
 29-08-2025;A-LINE;WO073303;SO027303;506364;KENDA Deutschland GmbH;WI GK 2.50Ax8 14,2x96/89,8 TL Silver RAL9006;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\506364_BM.pdf;1000;0;0;0;1000;4860.00
 29-08-2025;A-LINE;WO073667;SO027453;647715;KENDA GB Rugeley Ltd;WI GO 3.25Ax6 20x75;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\647715_BM.pdf;260;0;0;0;260;1622.40
@@ -677,14 +672,22 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 29-08-2025;B-LINE;WO074352;SO027617;632155;STIGA S.p.A.;WI EPL 7.00Ix8 H2 19,2x106 TL CP1083 STARCO;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632155_BM.pdf;542;0;0;0;542;3783.16
 29-08-2025;B-LINE;WO074353;SO027617;514840;STIGA S.p.A.;WI GPL 4.375Ax8 H2 19,1x89,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514840_BM.pdf;333;0;0;0;333;0.00
 29-08-2025;B-LINE;WO074354;SO027617;514765;STIGA S.p.A.;WI GG 4.375Ax8 H2 20,1x89,5/81,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514765_BM.pdf;333;0;0;0;333;0.00
-29-08-2025;CLAMP ASSEMBLY;WO073065;SO027237;680965;KENDA Schweiz AG;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;908.00
-29-08-2025;CLAMP ASSEMBLY;WO073069;SO027237;143552;KENDA Schweiz AG;DU Footbase MD      Standard;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;500;0;0;0;500;2080.00
-29-08-2025;CLAMP ASSEMBLY;(blank);SO027531;447872;KENDA Schweiz AG;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;500;0;0;0;500;7180.00
-29-08-2025;CLAMP ASSEMBLY;(blank);SO027531;631622;KENDA Schweiz AG;DU Capnut Kit MD+;(blank);;50;0;0;0;50;476.00
 29-08-2025;C-LINE;WO073143;SO027263;139968;KENDA België NV;WB 2.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\139968_BM.pdf;350;0;0;0;350;2198.00
 29-08-2025;C-LINE;WO073703;SO027462;473994;BOHNENKAMP SE;WB 2.50Ax8 H2 4/63/100 Ø14.5 C60 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-043_BM.pdf;1200;0;0;0;1200;6468.00
 29-08-2025;C-LINE;WO074350;SO027617;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;308;0;0;0;308;0.00
 29-08-2025;C-LINE;WO074351;SO027617;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;542;0;0;0;542;0.00
+29-08-2025;COMPONENT;WO073065;SO027237;680965;KENDA Schweiz AG;DU Ringnut Kit MD;Firm Planned;;100;0;0;0;100;908.00
+29-08-2025;COMPONENT;WO073066;SO027237;610238;KENDA Schweiz AG;DU Ringnut SOK;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25009_BM.pdf;50;0;0;0;50;1018.00
+29-08-2025;COMPONENT;WO073067;SO027237;610498;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;0;0;200;2232.00
+29-08-2025;COMPONENT;WO073068;SO027237;494296;KENDA Schweiz AG;DU Threaded Stud M16x1.5x95mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G30001_BM.pdf;500;0;0;0;500;1440.00
+29-08-2025;COMPONENT;WO073069;SO027237;143552;KENDA Schweiz AG;DU Footbase MD      Standard;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14008.pdf;500;0;0;0;500;2080.00
+29-08-2025;COMPONENT;(blank);SO027237;580364;KENDA Schweiz AG;DU Equalizing Disc  Angled 50°;(blank);;50;0;0;0;50;226.00
+29-08-2025;COMPONENT;(blank);SO027237;494104;KENDA Schweiz AG;DU Capnut MD+;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0664380.pdf;500;0;0;0;500;3206.00
+29-08-2025;COMPONENT;(blank);SO027237;494623;KENDA Schweiz AG;DU Ringnut SOK;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663115.pdf;50;0;0;0;50;326.00
+29-08-2025;COMPONENT;(blank);SO027237;494388;KENDA Schweiz AG;Flat Washer Steel 17,0x32,0x5,00 M16 Zinc Plated;(blank);;500;0;0;0;500;120.00
+29-08-2025;COMPONENT;(blank);SO027237;494449;KENDA Schweiz AG;Hex Nut DIN   M16 1.50 Steel 10.9 Zinc Plated &...;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\494449_BM.pdf;500;0;0;0;500;200.00
+29-08-2025;COMPONENT;(blank);SO027531;447872;KENDA Schweiz AG;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;500;0;0;0;500;7180.00
+29-08-2025;COMPONENT;(blank);SO027531;631622;KENDA Schweiz AG;DU Capnut Kit MD+;(blank);;50;0;0;0;50;476.00
 29-08-2025;E-LINE;WO072786;SO027179;108438;KENDA GB Rugeley Ltd;WB 10.50Ix12 H2 5/95/140 Ø18.5 R14 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-105-288-STR_BM.pdf;150;0;0;0;150;5104.50
 29-08-2025;E-LINE;WO072809;SO027179;736006;KENDA GB Rugeley Ltd;WB 7.00Ix10 H2 4/64.5/101.6 Ø14.5 C60 ET-28.5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P100-070-031-STR_BM.pdf;100;0;0;0;100;2202.00
 29-08-2025;E-LINE;WO073139;SO027263;522197;KENDA België NV;WB 6.00Ix10 H2 5/67/112 Ø16 R12 ET25;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W100-060-084-STR_BM.pdf;100;0;0;0;100;1742.00
@@ -710,9 +713,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 29-08-2025;F-LINE;WO073656;SO027453;275666;KENDA GB Rugeley Ltd;WB 9.00Wx18 H2 8/221/275 Ø21.5 R16 ET-8;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W180-090-022-STR_BM.pdf;50;0;0;0;50;2803.50
 29-08-2025;F-LINE;WO073674;SO027453;614564;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221/275 Ø21.5 R16 ET-15;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-055-STR_BM.pdf;160;0;0;0;160;13780.80
 29-08-2025;F-LINE;WO074145;SO027586;640228;KENDA Schweiz AG;WB 9.00x17 H2 6/161/205 Ø21.5 R16 ET-20;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P170-090-001-STR_BM.pdf;4;0;0;0;4;602.68
-29-08-2025;GALVA-COST;WO073066;SO027237;610238;KENDA Schweiz AG;DU Ringnut SOK;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25009_BM.pdf;50;0;0;0;50;1018.00
-29-08-2025;GALVA-COST;WO073067;SO027237;610498;KENDA Schweiz AG;DU Capnut SOK+;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G25003_BM.pdf;200;0;0;0;200;2232.00
-29-08-2025;GALVA-COST;WO073068;SO027237;494296;KENDA Schweiz AG;DU Threaded Stud M16x1.5x95mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G30001_BM.pdf;500;0;0;0;500;1440.00
 29-08-2025;G-LINE;WO070763;SO026471;733975;KENDA Schweiz AG;WB 6Jx16 H2 5/94/140 Ø18.5 R14 ET68;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-060-075-STR_BM.pdf;150;0;0;0;150;8239.50
 29-08-2025;G-LINE;WO073382;SO027339;741420;KENDA Deutschland GmbH;WB 10LBx15 H2 5/110/160 Ø18.5 R14 ET-25;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-100-153-STR_BM.pdf;80;0;0;0;80;5532.00
 29-08-2025;G-LINE;WO073660;SO027453;381732;KENDA GB Rugeley Ltd;WB 6Jx16 H2 6/161/205 Ø21.5 R16 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W160-060-003-STR_BM.pdf;120;0;0;0;120;4707.60
@@ -761,16 +761,18 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 05-09-2025;B-LINE;WO074361;SO027619;632155;STIGA S.p.A.;WI EPL 7.00Ix8 H2 19,2x106 TL CP1083 STARCO;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632155_BM.pdf;542;0;0;0;542;3783.16
 05-09-2025;B-LINE;WO074362;SO027619;514840;STIGA S.p.A.;WI GPL 4.375Ax8 H2 19,1x89,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514840_BM.pdf;333;0;0;0;333;0.00
 05-09-2025;B-LINE;WO074363;SO027619;514765;STIGA S.p.A.;WI GG 4.375Ax8 H2 20,1x89,5/81,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514765_BM.pdf;333;0;0;0;333;0.00
-05-09-2025;CLAMP ASSEMBLY;WO073648;SO027450;681610;Bohnenkamp Kft.;DU Ringnut Kit HD;Firm Planned;;40;0;0;0;40;369.00
-05-09-2025;CLAMP ASSEMBLY;WO073649;SO027450;631660;Bohnenkamp Kft.;DU Capnut Kit HD+;Firm Planned;;8;0;0;0;8;92.16
-05-09-2025;CLAMP ASSEMBLY;(blank);SO027657;631592;KENDA Schweiz AG;DU Capnut Kit MD+;(blank);;500;0;0;0;500;4760.00
-05-09-2025;CLAMP ASSEMBLY;WO074505;SO027671;495958;BOHNENKAMP s.r.o.;DU Fixation Set HD+4 M18x1.5x95;Firm Planned;;1;0;0;0;1;424.89
-05-09-2025;CLAMP ASSEMBLY;WO074506;SO027671;495972;BOHNENKAMP s.r.o.;DU Fixation Set HD+6 M18x1.5x95;Firm Planned;;1;0;0;0;1;622.53
 05-09-2025;C-LINE;WO073620;SO027435;473994;BOHNENKAMP SE;WB 2.50Ax8 H2 4/63/100 Ø14.5 C60 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-043_BM.pdf;1200;0;0;0;1200;6468.00
 05-09-2025;C-LINE;WO073850;SO027500;274515;KENDA België NV;WB 2.50Ax8 H2 4/67/101.6 Ø11.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274515_BM.pdf;50;0;0;0;50;350.00
 05-09-2025;C-LINE;WO073894;SO027514;139968;BOHNENKAMP A/S;WB 2.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\139968_BM.pdf;500;0;0;0;500;3000.00
 05-09-2025;C-LINE;WO074359;SO027619;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;308;0;0;0;308;0.00
 05-09-2025;C-LINE;WO074360;SO027619;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;542;0;0;0;542;0.00
+05-09-2025;COMPONENT;WO073648;SO027450;681610;Bohnenkamp Kft.;DU Ringnut Kit HD;Firm Planned;;40;0;0;0;40;369.00
+05-09-2025;COMPONENT;WO073649;SO027450;631660;Bohnenkamp Kft.;DU Capnut Kit HD+;Firm Planned;;8;0;0;0;8;92.16
+05-09-2025;COMPONENT;(blank);SO027450;494999;Bohnenkamp Kft.;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;10;0;0;0;10;147.15
+05-09-2025;COMPONENT;(blank);SO027657;631592;KENDA Schweiz AG;DU Capnut Kit MD+;(blank);;500;0;0;0;500;4760.00
+05-09-2025;COMPONENT;WO074474;SO027660;470481;KENDA Schweiz AG;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;304.80
+05-09-2025;COMPONENT;WO074505;SO027671;495958;BOHNENKAMP s.r.o.;DU Fixation Set HD+4 M18x1.5x95;Firm Planned;;1;0;0;0;1;424.89
+05-09-2025;COMPONENT;WO074506;SO027671;495972;BOHNENKAMP s.r.o.;DU Fixation Set HD+6 M18x1.5x95;Firm Planned;;1;0;0;0;1;622.53
 05-09-2025;D-LINE;WO073691;SO027456;708911;KENDA Deutschland GmbH;WB AG16.00x22.5 H2 6/135.3/170 Ø17 ET-147;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-158-STR_BM-1.pdf;2;0;0;0;2;272.20
 05-09-2025;D-LINE;WO074130;SO027341;140490;KENDA Deutschland GmbH;WB DW11x24 6/135.3/170 Ø17 ET-77;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P240-110-029-STR_BM.pdf;22;0;0;0;22;4247.54
 05-09-2025;E-LINE;WO073393;SO027341;453606;KENDA Deutschland GmbH;WB 4.25Ix12 H2 6/117.8/152.4 Ø17.5 ET13;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-043-015-STR_BM.pdf;4;0;0;0;4;98.00
@@ -795,8 +797,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 05-09-2025;F-LINE;WO074119;SO027572;614014;KENDA GB Rugeley Ltd;WB W13x20 H2 5/290/335 Ø21.5 R22.4 ET10;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-054-STR_BM.pdf;120;0;0;0;120;10483.20
 05-09-2025;F-LINE;WO074136;SO027577;119786;KENDA Polska Sp. z.o.o.;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P170-160-140-STR_BM.pdf;24;0;0;0;24;1698.72
 05-09-2025;F-LINE;(blank);SO027511;113715;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221.5/275 Ø23.5 ET-15;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-104-STR_BM.pdf;180;0;0;0;180;14580.00
-05-09-2025;GALVA-COST;(blank);SO027450;494999;Bohnenkamp Kft.;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;10;0;0;0;10;147.15
-05-09-2025;GALVA-COST;WO074474;SO027660;470481;KENDA Schweiz AG;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;304.80
 05-09-2025;G-LINE;WO073539;SO027414;167008;KENDA Schweiz AG;WB 13LBx15 H2 5/94/140 Ø18.5 R14 ET49;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-130-037-STR_BM.pdf;50;0;0;0;50;2505.00
 05-09-2025;G-LINE;WO073683;SO027456;705163;KENDA Deutschland GmbH;WB W8x16 H2 5/79.5/114.3 Ø13.5 ET-55;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-138-STR_BM.pdf;20;0;0;0;20;1010.80
 05-09-2025;G-LINE;WO073686;SO027456;459479;KENDA Deutschland GmbH;WB 7Jx14 H2 6/117.8/152.4 Ø17.5 ET-16;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W140-070-008-STR_BM.pdf;14;0;0;0;14;642.60
@@ -946,11 +946,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 19-09-2025;G-LINE;WO074121;SO027572;676517;KENDA GB Rugeley Ltd;WB 9.00x15.3 H2 6/161/205 Ø21.5 R16 ET23;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P153-090-157-STR_BM.pdf;56;0;0;0;56;2302.16
 19-09-2025;GS-MTM;WO074118;SO027572;613987;KENDA GB Rugeley Ltd;WB AG16.00x22.5 H2 5/290/335 Ø21.5 R22.4 ET-20;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P225-160-123-STR_BM-1.pdf;80;0;0;0;80;11552.80
 19-09-2025;MTM-SBM;WO073830;SO027492;163727;KENDA Deutschland GmbH;WB 8.25x19.5 H2 6/151/205 Ø26 R18 ET80;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P195-083-022-STR_BM.pdf;12;0;0;0;12;1497.60
-26-09-2025;-;(blank);SO027538;447858;GRASDORF GmbH;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;900;0;0;0;900;3105.00
-26-09-2025;-;(blank);SO027538;447827;GRASDORF GmbH;DU Equalizing Disc  Angled 10°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663340.pdf;200;0;0;0;200;370.00
-26-09-2025;-;(blank);SO027538;447834;GRASDORF GmbH;DU Equalizing Disc  Angled 15°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663346.pdf;40;0;0;0;40;92.00
-26-09-2025;-;(blank);SO027538;494593;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663310.pdf;6;0;0;0;6;45.00
-26-09-2025;-;(blank);SO027538;494630;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663110.pdf;8;0;0;0;8;60.00
 26-09-2025;B-LINE;WO073443;SO027366;274539;KENDA België NV;WB 3.50Bx10 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274539_BM.pdf;500;0;0;0;500;4270.00
 26-09-2025;B-LINE;WO073856;SO027501;274553;KENDA België NV;WB 3.50Bx10 H2 4/85/115 Ø12.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274553_BM.pdf;150;0;0;0;150;1281.00
 26-09-2025;B-LINE;WO073857;SO027501;274539;KENDA België NV;WB 3.50Bx10 H2 4/60/100 Ø14.5 C60 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274539_BM.pdf;100;0;0;0;100;854.00
@@ -970,32 +965,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 26-09-2025;B-LINE;WO074394;SO027623;632155;STIGA S.p.A.;WI EPL 7.00Ix8 H2 19,2x106 TL CP1083 STARCO;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632155_BM.pdf;542;0;0;0;542;3783.16
 26-09-2025;B-LINE;WO074395;SO027623;514840;STIGA S.p.A.;WI GPL 4.375Ax8 H2 19,1x89,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514840_BM.pdf;333;0;0;0;333;0.00
 26-09-2025;B-LINE;WO074396;SO027623;514765;STIGA S.p.A.;WI GG 4.375Ax8 H2 20,1x89,5/81,5 TL Grey CP1066;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\514765_BM.pdf;333;0;0;0;333;0.00
-26-09-2025;CLAMP ASSEMBLY;WO073962;SO027538;631684;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;50;0;0;0;50;640.00
-26-09-2025;CLAMP ASSEMBLY;WO073963;SO027538;631707;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
-26-09-2025;CLAMP ASSEMBLY;WO073964;SO027538;680866;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
-26-09-2025;CLAMP ASSEMBLY;WO073965;SO027538;631646;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
-26-09-2025;CLAMP ASSEMBLY;WO073966;SO027538;681610;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;20;0;0;0;20;205.00
-26-09-2025;CLAMP ASSEMBLY;WO073967;SO027538;681023;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;30;0;0;0;30;307.50
-26-09-2025;CLAMP ASSEMBLY;WO073968;SO027538;680965;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;6;0;0;0;6;68.10
-26-09-2025;CLAMP ASSEMBLY;WO073969;SO027538;680989;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;6;0;0;0;6;68.10
-26-09-2025;CLAMP ASSEMBLY;WO073971;SO027538;634081;GRASDORF GmbH;DU Chain-set   AW;Firm Planned;;6;0;0;0;6;330.90
-26-09-2025;CLAMP ASSEMBLY;WO073973;SO027538;680873;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;30;0;0;0;30;357.00
-26-09-2025;CLAMP ASSEMBLY;WO073974;SO027538;447971;GRASDORF GmbH;DU Equalizing Disc  Profiled  Set;Firm Planned;;20;0;0;0;20;139.00
-26-09-2025;CLAMP ASSEMBLY;(blank);SO027538;631677;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;500;0;0;100;400;5120.00
-26-09-2025;CLAMP ASSEMBLY;(blank);SO027538;631592;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;120;0;0;0;120;1428.00
-26-09-2025;CLAMP ASSEMBLY;(blank);SO027538;447872;GRASDORF GmbH;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;400;0;0;0;400;7180.00
-26-09-2025;CLAMP ASSEMBLY;(blank);SO027538;680972;GRASDORF GmbH;DU Ringnut Kit MD;(blank);;20;0;0;0;20;227.00
-26-09-2025;CLAMP ASSEMBLY;(blank);SO027538;631691;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;20;0;0;0;20;256.00
-26-09-2025;CLAMP-LINE;WO073955;SO027538;626437;GRASDORF GmbH;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;4;0;0;0;4;93.80
-26-09-2025;CLAMP-LINE;WO073956;SO027538;623474;GRASDORF GmbH;DU Support bridge AW 8@203.2/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;3;0;0;0;3;67.20
-26-09-2025;CLAMP-LINE;WO073957;SO027538;623498;GRASDORF GmbH;DU Support bridge AW 6@205/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;4;0;0;0;4;85.40
-26-09-2025;CLAMP-LINE;WO073958;SO027538;612409;GRASDORF GmbH;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;4;0;0;0;4;89.60
-26-09-2025;CLAMP-LINE;WO073972;SO027538;596730;GRASDORF GmbH;DU Support bridge AW+ 10@335/ 24 H62 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B12002_BM.pdf;4;0;0;0;4;494.80
-26-09-2025;CLAMP-LINE;WO073976;SO027538;646756;GRASDORF GmbH;DU Driving lug   AW  60x12x87mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10211_BM.pdf;10;0;0;0;10;101.20
-26-09-2025;CLAMP-LINE;(blank);SO027538;502687;GRASDORF GmbH;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;2;0;0;0;2;80.40
-26-09-2025;CLAMP-LINE;(blank);SO027538;481913;GRASDORF GmbH;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;4;0;0;0;4;45.80
-26-09-2025;CLAMP-LINE;(blank);SO027538;502663;GRASDORF GmbH;DU Clamp AW 250 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12005_BM.pdf;2;0;0;0;2;77.50
-26-09-2025;CLAMP-LINE;(blank);SO027538;502700;GRASDORF GmbH;DU Clamp AW 380 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12004_BM.pdf;2;0;0;0;2;84.10
 26-09-2025;C-LINE;WO072753;SO027173;161594;KENDA Deutschland GmbH;WI GK 7.00Ix8 H2 25x64/73 TL Orange RAL2002 6205;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\161594_BM.pdf;500;0;0;0;500;6400.00
 26-09-2025;C-LINE;WO073816;SO027491;721323;KENDA Deutschland GmbH;WI EK 5.00Ix10 H2 25x90/100;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-100-050-005_BM.pdf;500;0;0;0;500;6500.00
 26-09-2025;C-LINE;WO073875;SO027506;274522;KENDA België NV;WB 2.50Ax8 H2 4/85/115 Ø12.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274522_BM.pdf;100;0;0;0;100;700.00
@@ -1004,6 +973,51 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 26-09-2025;C-LINE;WO074102;SO027572;274522;KENDA GB Rugeley Ltd;WB 2.50Ax8 H2 4/85/115 Ø12.5 C90 ET0;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\274522_BM.pdf;553;0;0;0;553;3102.33
 26-09-2025;C-LINE;WO074392;SO027623;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;308;0;0;0;308;0.00
 26-09-2025;C-LINE;WO074393;SO027623;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;542;0;0;0;542;0.00
+26-09-2025;COMPONENT;WO073954;SO027538;502717;GRASDORF GmbH;DU Clamp AW 380 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12003_BM.pdf;2;0;0;0;2;84.10
+26-09-2025;COMPONENT;WO073955;SO027538;626437;GRASDORF GmbH;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;4;0;0;0;4;93.80
+26-09-2025;COMPONENT;WO073956;SO027538;623474;GRASDORF GmbH;DU Support bridge AW 8@203.2/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10004_BM.pdf;3;0;0;0;3;67.20
+26-09-2025;COMPONENT;WO073957;SO027538;623498;GRASDORF GmbH;DU Support bridge AW 6@205/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;4;0;0;0;4;85.40
+26-09-2025;COMPONENT;WO073958;SO027538;612409;GRASDORF GmbH;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;4;0;0;0;4;89.60
+26-09-2025;COMPONENT;WO073960;SO027538;604374;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;20;0;0;0;20;381.00
+26-09-2025;COMPONENT;WO073961;SO027538;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;400;0;0;0;400;6260.00
+26-09-2025;COMPONENT;WO073962;SO027538;631684;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;50;0;0;0;50;640.00
+26-09-2025;COMPONENT;WO073963;SO027538;631707;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
+26-09-2025;COMPONENT;WO073964;SO027538;680866;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
+26-09-2025;COMPONENT;WO073965;SO027538;631646;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
+26-09-2025;COMPONENT;WO073966;SO027538;681610;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;20;0;0;0;20;205.00
+26-09-2025;COMPONENT;WO073967;SO027538;681023;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;30;0;0;0;30;307.50
+26-09-2025;COMPONENT;WO073968;SO027538;680965;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;6;0;0;0;6;68.10
+26-09-2025;COMPONENT;WO073969;SO027538;680989;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;6;0;0;0;6;68.10
+26-09-2025;COMPONENT;WO073970;SO027538;407548;GRASDORF GmbH;DU Handle bar   AW  740mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40004_BM.pdf;6;0;0;0;6;55.20
+26-09-2025;COMPONENT;WO073971;SO027538;634081;GRASDORF GmbH;DU Chain-set   AW;Firm Planned;;6;0;0;0;6;330.90
+26-09-2025;COMPONENT;WO073972;SO027538;596730;GRASDORF GmbH;DU Support bridge AW+ 10@335/ 24 H62 Blue;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B12002_BM.pdf;4;0;0;0;4;494.80
+26-09-2025;COMPONENT;WO073973;SO027538;680873;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;30;0;0;0;30;357.00
+26-09-2025;COMPONENT;WO073974;SO027538;447971;GRASDORF GmbH;DU Equalizing Disc  Profiled  Set;Firm Planned;;20;0;0;0;20;139.00
+26-09-2025;COMPONENT;WO073976;SO027538;646756;GRASDORF GmbH;DU Driving lug   AW  60x12x87mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10211_BM.pdf;10;0;0;0;10;101.20
+26-09-2025;COMPONENT;(blank);SO027538;447902;GRASDORF GmbH;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;80;0;0;0;80;972.00
+26-09-2025;COMPONENT;(blank);SO027538;631677;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;500;0;0;100;400;5120.00
+26-09-2025;COMPONENT;(blank);SO027538;408019;GRASDORF GmbH;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;174.00
+26-09-2025;COMPONENT;(blank);SO027538;631592;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;120;0;0;0;120;1428.00
+26-09-2025;COMPONENT;(blank);SO027538;502687;GRASDORF GmbH;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;2;0;0;0;2;80.40
+26-09-2025;COMPONENT;(blank);SO027538;502731;GRASDORF GmbH;DU Clamp AW 450 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;2;0;0;0;2;86.30
+26-09-2025;COMPONENT;(blank);SO027538;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;350;0;0;0;350;5565.00
+26-09-2025;COMPONENT;(blank);SO027538;408026;GRASDORF GmbH;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;20;0;0;0;20;122.00
+26-09-2025;COMPONENT;(blank);SO027538;422398;GRASDORF GmbH;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;60;0;0;0;60;837.00
+26-09-2025;COMPONENT;(blank);SO027538;447858;GRASDORF GmbH;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;900;0;0;0;900;3105.00
+26-09-2025;COMPONENT;(blank);SO027538;447872;GRASDORF GmbH;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;400;0;0;0;400;7180.00
+26-09-2025;COMPONENT;(blank);SO027538;481913;GRASDORF GmbH;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;4;0;0;0;4;45.80
+26-09-2025;COMPONENT;(blank);SO027538;680972;GRASDORF GmbH;DU Ringnut Kit MD;(blank);;20;0;0;0;20;227.00
+26-09-2025;COMPONENT;(blank);SO027538;447827;GRASDORF GmbH;DU Equalizing Disc  Angled 10°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663340.pdf;200;0;0;0;200;370.00
+26-09-2025;COMPONENT;(blank);SO027538;447834;GRASDORF GmbH;DU Equalizing Disc  Angled 15°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663346.pdf;40;0;0;0;40;92.00
+26-09-2025;COMPONENT;(blank);SO027538;494593;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663310.pdf;6;0;0;0;6;45.00
+26-09-2025;COMPONENT;(blank);SO027538;502663;GRASDORF GmbH;DU Clamp AW 250 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12005_BM.pdf;2;0;0;0;2;77.50
+26-09-2025;COMPONENT;(blank);SO027538;502670;GRASDORF GmbH;DU Clamp AW 250 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12006_BM.pdf;2;0;0;0;2;77.50
+26-09-2025;COMPONENT;(blank);SO027538;502694;GRASDORF GmbH;DU Clamp AW 320 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12001_BM.pdf;2;0;0;0;2;80.40
+26-09-2025;COMPONENT;(blank);SO027538;502700;GRASDORF GmbH;DU Clamp AW 380 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12004_BM.pdf;2;0;0;0;2;84.10
+26-09-2025;COMPONENT;(blank);SO027538;631691;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;20;0;0;0;20;256.00
+26-09-2025;COMPONENT;(blank);SO027538;494630;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663110.pdf;8;0;0;0;8;60.00
+26-09-2025;COMPONENT;(blank);SO027678;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;817.50
+26-09-2025;COMPONENT;(blank);SO027679;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;817.50
 26-09-2025;E-LINE;WO073734;SO027472;283104;KENDA Deutschland GmbH;WB 8.50Ix12 H2 4/85/130 Ø14.5 ET-22;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-085-070-STR_BM.pdf;50;0;0;0;50;1404.00
 26-09-2025;E-LINE;WO073778;SO027479;277035;KENDA België NV;WB 7.00Ix12 H2 5/67/112 Ø16 R12 ET10;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W120-070-028-STR_BM.pdf;50;0;0;0;50;1087.00
 26-09-2025;E-LINE;WO073799;SO027488;477640;KENDA Deutschland GmbH;WB 10.50Ix12 H2 5/94/140 Ø16.5 ET-40;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-105-198-STR_BM.pdf;50;0;0;0;50;1950.00
@@ -1015,18 +1029,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 26-09-2025;F-LINE;WO073747;SO027473;141299;KENDA Deutschland GmbH;WB 16.00x17 H2 8/221/275 Ø27 R18 ET-50 RFH;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P170-160-128-STR_BM.pdf;20;0;0;0;20;2010.00
 26-09-2025;F-LINE;WO073791;SO027488;376721;KENDA Deutschland GmbH;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-039-STR_BM.pdf;50;0;0;0;50;3293.00
 26-09-2025;F-LINE;WO074116;SO027572;113715;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221.5/275 Ø23.5 ET-15;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-104-STR_BM.pdf;80;0;0;0;80;6480.00
-26-09-2025;GALVA-COST;WO073954;SO027538;502717;GRASDORF GmbH;DU Clamp AW 380 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12003_BM.pdf;2;0;0;0;2;84.10
-26-09-2025;GALVA-COST;WO073960;SO027538;604374;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;20;0;0;0;20;381.00
-26-09-2025;GALVA-COST;WO073961;SO027538;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;400;0;0;0;400;6260.00
-26-09-2025;GALVA-COST;(blank);SO027538;447902;GRASDORF GmbH;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;80;0;0;0;80;972.00
-26-09-2025;GALVA-COST;(blank);SO027538;502731;GRASDORF GmbH;DU Clamp AW 450 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;2;0;0;0;2;86.30
-26-09-2025;GALVA-COST;(blank);SO027538;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;350;0;0;0;350;5565.00
-26-09-2025;GALVA-COST;(blank);SO027538;408026;GRASDORF GmbH;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;20;0;0;0;20;122.00
-26-09-2025;GALVA-COST;(blank);SO027538;422398;GRASDORF GmbH;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;60;0;0;0;60;837.00
-26-09-2025;GALVA-COST;(blank);SO027538;502670;GRASDORF GmbH;DU Clamp AW 250 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12006_BM.pdf;2;0;0;0;2;77.50
-26-09-2025;GALVA-COST;(blank);SO027538;502694;GRASDORF GmbH;DU Clamp AW 320 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12001_BM.pdf;2;0;0;0;2;80.40
-26-09-2025;GALVA-COST;(blank);SO027678;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;817.50
-26-09-2025;GALVA-COST;(blank);SO027679;494999;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32015_BM.pdf;50;0;0;0;50;817.50
 26-09-2025;G-LINE;WO073812;SO027491;696171;KENDA Deutschland GmbH;WB 6Jx15 H2 5/94/140 Ø18.5 R14 ET40;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-065-STR_BM.pdf;300;0;0;0;300;10599.00
 26-09-2025;G-LINE;WO073813;SO027491;696171;KENDA Deutschland GmbH;WB 6Jx15 H2 5/94/140 Ø18.5 R14 ET40;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-065-STR_BM.pdf;200;0;0;0;200;7066.00
 26-09-2025;G-LINE;WO073818;SO027491;729916;KENDA Deutschland GmbH;WB 6Jx15 H2 6/161/205 Ø21.5 R16 ET70;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-069-STR_BM.pdf;50;0;0;0;50;3072.50
@@ -1043,8 +1045,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 26-09-2025;G-LINE;WO073979;SO027539;645544;Ammann Czech Republic s.r.o.;WB W8x16 5/93/140 Ø18.5 R14 ET151.5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-101-STR_BM.pdf;8;0;0;0;8;1130.00
 26-09-2025;G-LINE;WO073980;SO027539;645544;Ammann Czech Republic s.r.o.;WB W8x16 5/93/140 Ø18.5 R14 ET151.5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-101-STR_BM.pdf;4;0;0;0;4;565.00
 26-09-2025;G-LINE;WO074139;SO027580;358307;Bohnenkamp SIA;WB 6.5LBx15 H2 6/161/205 Ø21.5 R16 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W150-065-007-STR_BM.pdf;200;0;0;0;200;6920.00
-26-09-2025;WELD-SUPPORT-NUT;WO073970;SO027538;407548;GRASDORF GmbH;DU Handle bar   AW  740mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40004_BM.pdf;6;0;0;0;6;55.20
-26-09-2025;WELD-SUPPORT-NUT;(blank);SO027538;408019;GRASDORF GmbH;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;174.00
 03-10-2025;A-LINE;WO073730;SO027472;200729;KENDA Deutschland GmbH;WI GR 2.50Ax8 20x120/114;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\200729_BM.pdf;500;0;0;0;500;3205.00
 03-10-2025;A-LINE;WO073731;SO027472;266817;KENDA Deutschland GmbH;WI ER 2.50Ax6 20x75/69;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\266817_BM.pdf;46;0;0;0;46;313.26
 03-10-2025;A-LINE;WO073732;SO027472;275116;KENDA Deutschland GmbH;WI GR 2.50Ax6 20x113/107;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\275116_BM.pdf;600;0;0;0;600;3696.00
@@ -1171,13 +1171,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 10-10-2025;GS-MTM;WO074211;SO027595;718576;ROSENBAUER INTERNATIONAL AG;WB 10.00W-20 10/281/335 Ø26 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-100-040-STR_BM.pdf;30;0;0;0;30;11761.20
 10-10-2025;GS-MTM;WO074613;SO027692;666716;KENDA Deutschland GmbH;WB DWW16Lx42 10/281/335 Ø27 R18 ET-346;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P420-160-014-STR_BM.pdf;4;0;0;0;4;1360.00
 10-10-2025;ROLL LINE;WO074496;SO027668;164922;KENDA Deutschland GmbH;WB 7.00Ix12 H2 5/93/140 Ø15 ET-10;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P120-070-001-SRL_BM.pdf;95;0;0;0;95;2212.55
-17-10-2025;-;(blank);SO027587;447858;GRASDORF GmbH;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;200;0;0;0;200;690.00
-17-10-2025;-;(blank);SO027587;447827;GRASDORF GmbH;DU Equalizing Disc  Angled 10°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663340.pdf;250;0;0;0;250;462.50
-17-10-2025;-;(blank);SO027587;447834;GRASDORF GmbH;DU Equalizing Disc  Angled 15°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663346.pdf;20;0;0;0;20;46.00
-17-10-2025;-;(blank);SO027587;494593;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663310.pdf;4;0;0;0;4;30.00
-17-10-2025;-;(blank);SO027587;494630;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663110.pdf;4;0;0;0;4;30.00
-17-10-2025;-;(blank);SO027587;447841;GRASDORF GmbH;DU Equalizing Disc  Angled 20°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663350.pdf;400;0;0;0;400;1040.00
-17-10-2025;-;(blank);SO027587;494531;GRASDORF GmbH;Hex Nut DIN 985 M16 1.50 Steel 8.8 Zinc Plated ...;(blank);;4;0;0;0;4;0.60
 17-10-2025;A-LINE;WO073792;SO027488;376851;KENDA Deutschland GmbH;WI GO 2.50Ax8 35x71;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\376851_BM.pdf;325;0;0;0;325;1615.25
 17-10-2025;A-LINE;WO074439;SO027650;359687;KENDA GB Rugeley Ltd;WI GO 2.50Ax8 35,3x63,5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\359687_BM.pdf;100;0;0;0;100;584.00
 17-10-2025;B-LINE;WO074012;SO027543;294407;BOHNENKAMP SE;WI EK 7.00Ax8 H2 30x107/127;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-070-005_BM.pdf;100;0;0;0;100;1949.00
@@ -1201,39 +1194,60 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 17-10-2025;B-LINE;WO074422;SO027640;739335;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 19,1x89,5 TL Black CP2004;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-012_BM.pdf;525;0;0;0;525;3879.75
 17-10-2025;B-LINE;WO074424;SO027641;739335;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 19,1x89,5 TL Black CP2004;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-012_BM.pdf;525;0;0;0;525;3879.75
 17-10-2025;B-LINE;WO074438;SO027650;294384;KENDA GB Rugeley Ltd;WB 5.50Ax8 H2 4/60/100 Ø14.5 C60 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-004_BM.pdf;200;0;0;0;200;2358.00
-17-10-2025;CLAMP ASSEMBLY;WO074155;SO027587;631660;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
-17-10-2025;CLAMP ASSEMBLY;WO074156;SO027587;631684;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
-17-10-2025;CLAMP ASSEMBLY;WO074157;SO027587;631707;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;30;0;0;0;30;384.00
-17-10-2025;CLAMP ASSEMBLY;WO074158;SO027587;680866;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;10;0;0;0;10;119.00
-17-10-2025;CLAMP ASSEMBLY;WO074159;SO027587;631646;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
-17-10-2025;CLAMP ASSEMBLY;WO074160;SO027587;681610;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;10;0;0;0;10;102.50
-17-10-2025;CLAMP ASSEMBLY;WO074161;SO027587;681023;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;20;0;0;0;20;205.00
-17-10-2025;CLAMP ASSEMBLY;WO074162;SO027587;681221;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;10;0;0;0;10;102.50
-17-10-2025;CLAMP ASSEMBLY;WO074163;SO027587;639796;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
-17-10-2025;CLAMP ASSEMBLY;WO074164;SO027587;680965;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
-17-10-2025;CLAMP ASSEMBLY;WO074165;SO027587;680989;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
-17-10-2025;CLAMP ASSEMBLY;WO074168;SO027587;447971;GRASDORF GmbH;DU Equalizing Disc  Profiled  Set;Firm Planned;;20;0;0;0;20;139.00
-17-10-2025;CLAMP ASSEMBLY;WO074169;SO027587;680873;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;10;0;0;0;10;119.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;631592;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;100;0;0;0;100;1190.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;481920;GRASDORF GmbH;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;100;0;0;0;100;2550.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;447872;GRASDORF GmbH;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;200;0;0;0;200;3590.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;680972;GRASDORF GmbH;DU Ringnut Kit MD;(blank);;10;0;0;0;10;113.50
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;631622;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;500;0;0;0;500;5950.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;631691;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;30;0;0;0;30;384.00
-17-10-2025;CLAMP ASSEMBLY;(blank);SO027587;681016;GRASDORF GmbH;DU Ringnut Kit HD;(blank);;10;0;0;0;10;102.50
-17-10-2025;CLAMP-LINE;WO074148;SO027587;626437;GRASDORF GmbH;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;2;0;0;0;2;46.90
-17-10-2025;CLAMP-LINE;WO074150;SO027587;623498;GRASDORF GmbH;DU Support bridge AW 6@205/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;2;0;0;0;2;42.70
-17-10-2025;CLAMP-LINE;WO074151;SO027587;612409;GRASDORF GmbH;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;44.80
-17-10-2025;CLAMP-LINE;WO074167;SO027587;646756;GRASDORF GmbH;DU Driving lug   AW  60x12x87mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10211_BM.pdf;4;0;0;0;4;40.48
-17-10-2025;CLAMP-LINE;(blank);SO027587;502687;GRASDORF GmbH;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;2;0;0;0;2;80.40
-17-10-2025;CLAMP-LINE;(blank);SO027587;502724;GRASDORF GmbH;DU Clamp AW 450 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12007_BM.pdf;1;0;0;0;1;43.15
-17-10-2025;CLAMP-LINE;(blank);SO027587;481913;GRASDORF GmbH;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;4;0;0;0;4;45.80
-17-10-2025;CLAMP-LINE;(blank);SO027587;502663;GRASDORF GmbH;DU Clamp AW 250 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12005_BM.pdf;3;0;0;0;3;116.25
-17-10-2025;CLAMP-LINE;(blank);SO027587;502700;GRASDORF GmbH;DU Clamp AW 380 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12004_BM.pdf;2;0;0;0;2;84.10
 17-10-2025;C-LINE;WO074010;SO027543;361161;BOHNENKAMP SE;WI EK 4.50Ax6 H2 25x64/74;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-029_BM.pdf;100;0;0;0;100;932.00
 17-10-2025;C-LINE;WO074011;SO027543;316215;BOHNENKAMP SE;WI GK 4.50Ax6 H2 25x90;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-060-045-012_BM.pdf;200;0;0;0;200;2312.00
 17-10-2025;C-LINE;WO074412;SO027628;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;415;0;0;0;415;0.00
 17-10-2025;C-LINE;WO074413;SO027628;632124;STIGA S.p.A.;WI EK 4.50Ax6 H2 20,1x89,4/82,2 TL CP1083 559100;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\632124_BM.pdf;725;0;0;0;725;0.00
+17-10-2025;COMPONENT;WO074146;SO027587;502717;GRASDORF GmbH;DU Clamp AW 380 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12003_BM.pdf;2;0;0;0;2;84.10
+17-10-2025;COMPONENT;WO074147;SO027587;604350;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32016_BM.pdf;10;0;0;0;10;163.50
+17-10-2025;COMPONENT;WO074148;SO027587;626437;GRASDORF GmbH;DU Support bridge AW 8@152.4/ 20 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10002_BM.pdf;2;0;0;0;2;46.90
+17-10-2025;COMPONENT;WO074150;SO027587;623498;GRASDORF GmbH;DU Support bridge AW 6@205/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10003_BM.pdf;2;0;0;0;2;42.70
+17-10-2025;COMPONENT;WO074151;SO027587;612409;GRASDORF GmbH;DU Support bridge AW 8@275/ 22 C90 H0 Red;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62B10001_BM.pdf;2;0;0;0;2;44.80
+17-10-2025;COMPONENT;WO074152;SO027587;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;381.00
+17-10-2025;COMPONENT;WO074153;SO027587;604374;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;10;0;0;0;10;190.50
+17-10-2025;COMPONENT;WO074154;SO027587;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;300;0;0;0;300;4695.00
+17-10-2025;COMPONENT;WO074155;SO027587;631660;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
+17-10-2025;COMPONENT;WO074156;SO027587;631684;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;20;0;0;0;20;256.00
+17-10-2025;COMPONENT;WO074157;SO027587;631707;GRASDORF GmbH;DU Capnut Kit HD+;Firm Planned;;30;0;0;0;30;384.00
+17-10-2025;COMPONENT;WO074158;SO027587;680866;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;10;0;0;0;10;119.00
+17-10-2025;COMPONENT;WO074159;SO027587;631646;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;20;0;0;0;20;238.00
+17-10-2025;COMPONENT;WO074160;SO027587;681610;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;10;0;0;0;10;102.50
+17-10-2025;COMPONENT;WO074161;SO027587;681023;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;20;0;0;0;20;205.00
+17-10-2025;COMPONENT;WO074162;SO027587;681221;GRASDORF GmbH;DU Ringnut Kit HD;Firm Planned;;10;0;0;0;10;102.50
+17-10-2025;COMPONENT;WO074163;SO027587;639796;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
+17-10-2025;COMPONENT;WO074164;SO027587;680965;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
+17-10-2025;COMPONENT;WO074165;SO027587;680989;GRASDORF GmbH;DU Ringnut Kit MD;Firm Planned;;10;0;0;0;10;113.50
+17-10-2025;COMPONENT;WO074166;SO027587;407548;GRASDORF GmbH;DU Handle bar   AW  740mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40004_BM.pdf;10;0;0;0;10;92.00
+17-10-2025;COMPONENT;WO074167;SO027587;646756;GRASDORF GmbH;DU Driving lug   AW  60x12x87mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62M10211_BM.pdf;4;0;0;0;4;40.48
+17-10-2025;COMPONENT;WO074168;SO027587;447971;GRASDORF GmbH;DU Equalizing Disc  Profiled  Set;Firm Planned;;20;0;0;0;20;139.00
+17-10-2025;COMPONENT;WO074169;SO027587;680873;GRASDORF GmbH;DU Capnut Kit MD+;Firm Planned;;10;0;0;0;10;119.00
+17-10-2025;COMPONENT;(blank);SO027587;447902;GRASDORF GmbH;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;100;0;0;0;100;1215.00
+17-10-2025;COMPONENT;(blank);SO027587;408019;GRASDORF GmbH;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;174.00
+17-10-2025;COMPONENT;(blank);SO027587;631592;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;100;0;0;0;100;1190.00
+17-10-2025;COMPONENT;(blank);SO027587;502687;GRASDORF GmbH;DU Clamp AW 320 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12002_BM.pdf;2;0;0;0;2;80.40
+17-10-2025;COMPONENT;(blank);SO027587;502724;GRASDORF GmbH;DU Clamp AW 450 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12007_BM.pdf;1;0;0;0;1;43.15
+17-10-2025;COMPONENT;(blank);SO027587;502731;GRASDORF GmbH;DU Clamp AW 450 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;2;0;0;0;2;86.30
+17-10-2025;COMPONENT;(blank);SO027587;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;300;0;0;0;300;4770.00
+17-10-2025;COMPONENT;(blank);SO027587;481920;GRASDORF GmbH;DU Clamp HD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G16001.pdf;100;0;0;0;100;2550.00
+17-10-2025;COMPONENT;(blank);SO027587;408026;GRASDORF GmbH;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;10;0;0;0;10;61.00
+17-10-2025;COMPONENT;(blank);SO027587;422398;GRASDORF GmbH;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;60;0;0;0;60;837.00
+17-10-2025;COMPONENT;(blank);SO027587;447858;GRASDORF GmbH;DU Equalizing Disc  Angled 30°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663360.pdf;200;0;0;0;200;690.00
+17-10-2025;COMPONENT;(blank);SO027587;447872;GRASDORF GmbH;DU Clamp MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G14001.pdf;200;0;0;0;200;3590.00
+17-10-2025;COMPONENT;(blank);SO027587;481913;GRASDORF GmbH;DU Clamp SOK weld-on;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G10001_BM.pdf;4;0;0;0;4;45.80
+17-10-2025;COMPONENT;(blank);SO027587;680972;GRASDORF GmbH;DU Ringnut Kit MD;(blank);;10;0;0;0;10;113.50
+17-10-2025;COMPONENT;(blank);SO027587;631622;GRASDORF GmbH;DU Capnut Kit MD+;(blank);;500;0;0;0;500;5950.00
+17-10-2025;COMPONENT;(blank);SO027587;447827;GRASDORF GmbH;DU Equalizing Disc  Angled 10°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663340.pdf;250;0;0;0;250;462.50
+17-10-2025;COMPONENT;(blank);SO027587;447834;GRASDORF GmbH;DU Equalizing Disc  Angled 15°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663346.pdf;20;0;0;0;20;46.00
+17-10-2025;COMPONENT;(blank);SO027587;494593;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663310.pdf;4;0;0;0;4;30.00
+17-10-2025;COMPONENT;(blank);SO027587;502663;GRASDORF GmbH;DU Clamp AW 250 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12005_BM.pdf;3;0;0;0;3;116.25
+17-10-2025;COMPONENT;(blank);SO027587;502670;GRASDORF GmbH;DU Clamp AW 250 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12006_BM.pdf;4;0;0;0;4;155.00
+17-10-2025;COMPONENT;(blank);SO027587;502694;GRASDORF GmbH;DU Clamp AW 320 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12001_BM.pdf;3;0;0;0;3;120.60
+17-10-2025;COMPONENT;(blank);SO027587;502700;GRASDORF GmbH;DU Clamp AW 380 Blue;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12004_BM.pdf;2;0;0;0;2;84.10
+17-10-2025;COMPONENT;(blank);SO027587;631691;GRASDORF GmbH;DU Capnut Kit HD+;(blank);;30;0;0;0;30;384.00
+17-10-2025;COMPONENT;(blank);SO027587;494630;GRASDORF GmbH;DU Ringnut MD;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663110.pdf;4;0;0;0;4;30.00
+17-10-2025;COMPONENT;(blank);SO027587;447841;GRASDORF GmbH;DU Equalizing Disc  Angled 20°;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\0663350.pdf;400;0;0;0;400;1040.00
+17-10-2025;COMPONENT;(blank);SO027587;494531;GRASDORF GmbH;Hex Nut DIN 985 M16 1.50 Steel 8.8 Zinc Plated ...;(blank);;4;0;0;0;4;0.60
+17-10-2025;COMPONENT;(blank);SO027587;681016;GRASDORF GmbH;DU Ringnut Kit HD;(blank);;10;0;0;0;10;102.50
 17-10-2025;D-LINE;WO074056;SO027557;559537;KENDA Deutschland GmbH;WB 16.00x17 H2 6/161/205 Ø21.5 R16 ET0 RFH;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W170-160-067-STR_BM.pdf;30;0;0;0;30;3015.00
 17-10-2025;D-LINE;WO074071;SO027564;165936;KENDA Deutschland GmbH;WB AG16.00x22.5 H2 6/161/205 Ø21.5 R16 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W225-160-040-STR_BM-1.pdf;25;0;0;0;25;2912.00
 17-10-2025;E-LINE;WO074008;SO027543;374680;BOHNENKAMP SE;WB 6.00Ix10 H2 5/67/112 Ø16 C60 ET25;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W100-060-064-STR_BM.pdf;100;0;0;0;100;2791.00
@@ -1260,18 +1274,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 17-10-2025;F-LINE;WO074433;SO027649;659503;KENDA Polska Sp. z.o.o.;WB 13.00x17 H2 6/161/205 Ø21.5 R16 ET0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P170-130-140-STR_BM.pdf;24;0;0;0;24;1798.80
 17-10-2025;F-LINE;WO074445;SO027650;614564;KENDA GB Rugeley Ltd;WB W13x20 H2 8/221/275 Ø21.5 R16 ET-15;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P200-130-055-STR_BM.pdf;160;0;0;0;160;13780.80
 17-10-2025;F-LINE;WO074498;SO027668;163055;KENDA Deutschland GmbH;WB 6.75x17.5 H2 8/221/275 Ø27 R18 ET-45;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P175-068-029-STR_BM.pdf;60;0;0;0;60;3619.20
-17-10-2025;GALVA-COST;WO074146;SO027587;502717;GRASDORF GmbH;DU Clamp AW 380 Silver;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12003_BM.pdf;2;0;0;0;2;84.10
-17-10-2025;GALVA-COST;WO074147;SO027587;604350;GRASDORF GmbH;DU Hookspindle  HD/AW 575mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32016_BM.pdf;10;0;0;0;10;163.50
-17-10-2025;GALVA-COST;WO074152;SO027587;470481;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32011_BM.pdf;20;0;0;0;20;381.00
-17-10-2025;GALVA-COST;WO074153;SO027587;604374;GRASDORF GmbH;DU Hookspindle  HD/AW 845mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G32018_BM.pdf;10;0;0;0;10;190.50
-17-10-2025;GALVA-COST;WO074154;SO027587;447919;GRASDORF GmbH;DU Headspindle  MD/SOK 805mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34011_BM.pdf;300;0;0;0;300;4695.00
-17-10-2025;GALVA-COST;(blank);SO027587;447902;GRASDORF GmbH;DU Headspindle  MD/SOK 550mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34003_BM.pdf;100;0;0;0;100;1215.00
-17-10-2025;GALVA-COST;(blank);SO027587;502731;GRASDORF GmbH;DU Clamp AW 450 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12008_BM.pdf;2;0;0;0;2;86.30
-17-10-2025;GALVA-COST;(blank);SO027587;470504;GRASDORF GmbH;DU Headspindle  HD/AW 950mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34010_BM.pdf;300;0;0;0;300;4770.00
-17-10-2025;GALVA-COST;(blank);SO027587;408026;GRASDORF GmbH;DU Handle bar MD    540mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40002_BM.pdf;10;0;0;0;10;61.00
-17-10-2025;GALVA-COST;(blank);SO027587;422398;GRASDORF GmbH;DU Headspindle  HD/AW 565mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G34007_BM.pdf;60;0;0;0;60;837.00
-17-10-2025;GALVA-COST;(blank);SO027587;502670;GRASDORF GmbH;DU Clamp AW 250 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12006_BM.pdf;4;0;0;0;4;155.00
-17-10-2025;GALVA-COST;(blank);SO027587;502694;GRASDORF GmbH;DU Clamp AW 320 Silver;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G12001_BM.pdf;3;0;0;0;3;120.60
 17-10-2025;G-LINE;WO070765;SO026471;733975;KENDA Schweiz AG;WB 6Jx16 H2 5/94/140 Ø18.5 R14 ET68;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-060-075-STR_BM.pdf;150;0;0;0;150;8239.50
 17-10-2025;G-LINE;WO073983;SO027540;459479;KENDA Deutschland GmbH;WB 7Jx14 H2 6/117.8/152.4 Ø17.5 ET-16;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\W140-070-008-STR_BM.pdf;12;0;0;0;12;550.80
 17-10-2025;G-LINE;WO073984;SO027540;708942;KENDA Deutschland GmbH;WB 10LBx15 H2 6/117.5/152.4 Ø17.5 ET-89;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-100-144-STR_BM.pdf;4;0;0;0;4;183.00
@@ -1293,8 +1295,6 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 17-10-2025;GS-LINE;WO074239;SO027599;119434;GRASDORF KOLA POLSKA Sp. z.o.o.;DU Wheel MD/HD W10x36/28/36-450;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\R360-280-001-STR_BM.pdf;2;0;0;0;2;1278.00
 17-10-2025;ROLLING-LINE;WO074219;SO027599;494852;GRASDORF KOLA POLSKA Sp. z.o.o.;DU Spacer Emc2 38-285;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R380027_BM.pdf;3;0;0;0;3;591.00
 17-10-2025;SPIN;WO074220;SO027599;549927;GRASDORF KOLA POLSKA Sp. z.o.o.;DU Spacer Stepped 42/38-300,0;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62R420037_BM.pdf;4;0;0;0;4;657.44
-17-10-2025;WELD-SUPPORT-NUT;WO074166;SO027587;407548;GRASDORF GmbH;DU Handle bar   AW  740mm;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40004_BM.pdf;10;0;0;0;10;92.00
-17-10-2025;WELD-SUPPORT-NUT;(blank);SO027587;408019;GRASDORF GmbH;DU Handle bar  HD   536mm;(blank);\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\62G40003_BM.pdf;20;0;0;0;20;174.00
 24-10-2025;B-LINE;WO074320;SO027621;471242;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Silver RAL9006 NORMAL;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-013_BM.pdf;525;0;0;0;525;4824.75
 24-10-2025;B-LINE;WO074321;SO027621;592831;KENDA Polska Sp. z.o.o.;WI GPL 5.50Ax8 H2 25,4x89,5 TL Silver RAL9006;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\592831_BM.pdf;525;0;0;0;525;5680.50
 24-10-2025;B-LINE;WO074322;SO027621;739328;KENDA Polska Sp. z.o.o.;WI GK 5.50Ax8 H2 20x89,5 TL Black CP2004 6204 2RS;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-055-013_BM.pdf;525;0;0;0;525;4824.75
@@ -1333,97 +1333,3 @@ Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Q
 24-10-2025;G-LINE;WO074501;SO027670;645544;Ammann Czech Republic s.r.o.;WB W8x16 5/93/140 Ø18.5 R14 ET151.5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-101-STR_BM.pdf;4;0;0;0;4;565.00
 24-10-2025;G-LINE;WO074559;SO027681;729916;KENDA Deutschland GmbH;WB 6Jx15 H2 6/161/205 Ø21.5 R16 ET70;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P150-060-069-STR_BM.pdf;140;0;0;0;140;5604.20
 24-10-2025;G-LINE;WO074578;SO027684;645544;Ammann Czech Republic s.r.o.;WB W8x16 5/93/140 Ø18.5 R14 ET151.5;Firm Planned;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P160-080-101-STR_BM.pdf;16;0;0;0;16;2260.00
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-;;WO073549;;;;;;;;;;;;
-;;WO072856;;;;;;;;;;;;
-;;WO072881;;;;;;;;;;;;
-;;WO073597;;;;;;;;;;;;
-;;WO073415;;;;;;;;;;;;
-;;WO073214;;;;;;;;;;;;
-;;WO072479;;;;;;;;;;;;
-;;WO072443;;;;;;;;;;;;
-;;WO072480;;;;;;;;;;;;
-;;WO072357;;;;;;;;;;;;
-;;WO072946;;;;;;;;;;;;
-;;WO072757;;;;;;;;;;;;
-;;WO073374;;;;;;;;;;;;
-;;WO073399;;;;;;;;;;;;
-;;WO072921;;;;;;;;;;;;
-;;WO073182;;;;;;;;;;;;
-;;WO072945;;;;;;;;;;;;
-;;WO073210;;;;;;;;;;;;
-;;WO073383;;;;;;;;;;;;
-;;WO073212;;;;;;;;;;;;
-;;WO073235;;;;;;;;;;;;
-;;WO074187;;;;;;;;;;;;
-;;WO073562;;;;;;;;;;;;
-;;WO071503;;;;;;;;;;;;
-;;WO071497;;;;;;;;;;;;
-;;WO074003;;;;;;;;;;;;
-;;WO073790;;;;;;;;;;;;
-;;WO073893;;;;;;;;;;;;
-;;WO073513;;;;;;;;;;;;
-;;WO070763;;;;;;;;;;;;
-;;WO073401;;;;;;;;;;;;
-;;WO073531;;;;;;;;;;;;
-;;WO073569;;;;;;;;;;;;
-;;WO073387;;;;;;;;;;;;
-;;WO073395;;;;;;;;;;;;
-;;WO073207;;;;;;;;;;;;
-;;WO073559;;;;;;;;;;;;
-;;WO073340;;;;;;;;;;;;
-;;WO072014;;;;;;;;;;;;
-;;WO073577;;;;;;;;;;;;
-;;WO073585;;;;;;;;;;;;
-;;WO072884;;;;;;;;;;;;
-;;WO073575;;;;;;;;;;;;
-;;WO073186;;;;;;;;;;;;
-;;WO073758;;;;;;;;;;;;
-;;WO073740;;;;;;;;;;;;
-;;WO073194;;;;;;;;;;;;
-;;WO073889;;;;;;;;;;;;
-;;WO073859;;;;;;;;;;;;
-;;WO073253;;;;;;;;;;;;
-;;WO073451;;;;;;;;;;;;
-;;WO073289;;;;;;;;;;;;
-;;WO072899;;;;;;;;;;;;
-;;WO073598;;;;;;;;;;;;
-;;WO072912;;;;;;;;;;;;
-;;WO073192;;;;;;;;;;;;
-;;WO073238;;;;;;;;;;;;
-;;WO073027;;;;;;;;;;;;
-;;WO073412;;;;;;;;;;;;
-;;WO073198;;;;;;;;;;;;
-;;WO073508;;;;;;;;;;;;
-;;WO073292;;;;;;;;;;;;
-;;WO073393;;;;;;;;;;;;
-;;WO073981;;;;;;;;;;;;
-;;WO073510;;;;;;;;;;;;
-;;WO073500;;;;;;;;;;;;
-;;WO073534;;;;;;;;;;;;
-;;WO073537;;;;;;;;;;;;
-;;WO073411;;;;;;;;;;;;
-;;WO073239;;;;;;;;;;;;
-;;WO073020;;;;;;;;;;;;
-;;WO072897;;;;;;;;;;;;
-;;WO073398;;;;;;;;;;;;
-;;WO073293;;;;;;;;;;;;
-;;WO073592;;;;;;;;;;;;
-;;WO073386;;;;;;;;;;;;
-;;WO073661;;;;;;;;;;;;
-;;WO073231;;;;;;;;;;;;
-;;WO073663;;;;;;;;;;;;
-;;WO074083;;;;;;;;;;;;
-;;WO073032;;;;;;;;;;;;
-;;WO073404;;;;;;;;;;;;
-;;WO072859;;;;;;;;;;;;
-;;WO072861;;;;;;;;;;;;
-;;WO073590;;;;;;;;;;;;
-;;WO072917;;;;;;;;;;;;
-;;WO073028;;;;;;;;;;;;
-;;WO071502;;;;;;;;;;;;
-;;WO072533;;;;;;;;;;;;
-;;WO073246;;;;;;;;;;;;
-;;WO073237;;;;;;;;;;;;
