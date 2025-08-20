@@ -1,4 +1,4 @@
-Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Qty;Varenje;Farbanje;Shipped;Rest;Rest price
+Shipment Date;Line;Work Order;Sales Order;No.;Customer;Description;Status;draw;Qty;Weld;Paint;Shipped;Rest;Rest price
 19.07.2024;G-LINE;WO067961;SO025534;141152;KENDA Europe A/S;WB AG9.50x14.5 H2 6/161/205 Ø21.5 R16 ET0 RFH;Finished;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\P145-095-032-STR_BM.pdf;3;3;1;0;3;92.55
 01.08.2024;-;(blank);SO025998;19020;Kenda Rubber Industrial Co. Europe GmbH;Custom Hub according drawing;(blank);;1;0;0;0;1;500.00
 30.08.2024;A-LINE;WO067256;SO025295;360836;KENDA België NV;WI EK 2.50Ax8 25x80/88;Released;\\dk-file03\g_data$\Group Production\HR - Beli Manastir\Drawings\PDF NAV\WP-080-025-014_BM.pdf;100;100;95;95;5;41.85
