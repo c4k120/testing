@@ -1,5 +1,5 @@
 Posting Date;No.;Customer;Value;Credit memo;Shipping cost;Total sales
-02.07.2025;SI013580;KENDA Deutschland GmbH;30487.09;-32767;-71690;1587502
+02.07.2025;SI013580;KENDA Deutschland GmbH;30487.09;-33103;-75260;1632599
 02.07.2025;SI013581;Bohnenkamp SIA;21993.02;;;
 02.07.2025;SI013583;Maschinenfabrik Bernard Krone GmbH & Co. KG;4885.74;;;
 04.07.2025;SI013592;GRASDORF GmbH;390.40;;;
@@ -67,4 +67,5 @@ Posting Date;No.;Customer;Value;Credit memo;Shipping cost;Total sales
 25.08.2025;SI013676;KENDA Polska Sp. z.o.o.;36671.22;;;
 27.08.2025;SI013680;Maschinenfabrik Bernard Krone GmbH & Co. KG;30140.96;;;
 27.08.2025;SI013681;KENDA Deutschland GmbH;36431.53;;;
-;;;1691958.43;;;
+28.08.2025;SI013683;KENDA GB Rugeley Ltd;49003.29;;;
+;;;1740961.72;;;
